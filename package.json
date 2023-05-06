@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/adamsissoko/travlr/issues"
   },
-  "homepage": "https://github.com/adamsissoko/travlr#readme"
+  "homepage": "https://github.com/adamsissoko/travlr#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
