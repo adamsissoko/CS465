@@ -11,7 +11,7 @@ const usersRouter = require('./app_server/routes/travel')
 const app = express();
 
 // view engine setup
-app.set('views', path.join(__dirname, 'app_server', views' ));
+app.set('views', path.join(__dirname, 'app_server', 'views'));
 app.set('view engine', 'hbs');
 
 app.use(logger('dev'));
