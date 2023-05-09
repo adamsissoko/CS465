@@ -41,4 +41,5 @@ process.on('SIGTERM', () => {
   });
 });
 
-require('./travlr');
+require('./models/trips');
+require('./models/user');
