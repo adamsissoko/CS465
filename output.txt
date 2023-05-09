@@ -1,0 +1,3952 @@
+ECHO is on.
+%05/09/2023 04:50 PM 
+%c:\Users\adams\travlr\.gitignore 
+
+app 
+%05/09/2023 04:50 PM 
+%c:\Users\adams\travlr\app.js 
+
+package-lock 
+%05/09/2023 04:50 PM 
+%c:\Users\adams\travlr\package-lock.json 
+
+package 
+%05/09/2023 04:50 PM 
+%c:\Users\adams\travlr\package.json 
+
+COMMIT_EDITMSG 
+%05/09/2023 04:43 PM 
+%c:\Users\adams\travlr\.git\COMMIT_EDITMSG 
+.
+config 
+%05/09/2023 04:43 PM 
+%c:\Users\adams\travlr\.git\config 
+.
+description 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\description 
+.
+FETCH_HEAD 
+%05/09/2023 05:18 PM 
+%c:\Users\adams\travlr\.git\FETCH_HEAD 
+.
+HEAD 
+%05/09/2023 04:46 PM 
+%c:\Users\adams\travlr\.git\HEAD 
+.
+index 
+%05/09/2023 04:46 PM 
+%c:\Users\adams\travlr\.git\index 
+.
+ORIG_HEAD 
+%05/09/2023 04:38 PM 
+%c:\Users\adams\travlr\.git\ORIG_HEAD 
+.
+packed-refs 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\packed-refs 
+.
+applypatch-msg 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\applypatch-msg.sample 
+.
+commit-msg 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\commit-msg.sample 
+.
+fsmonitor-watchman 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\fsmonitor-watchman.sample 
+.
+post-update 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\post-update.sample 
+.
+pre-applypatch 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\pre-applypatch.sample 
+.
+pre-commit 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\pre-commit.sample 
+.
+pre-merge-commit 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\pre-merge-commit.sample 
+.
+pre-push 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\pre-push.sample 
+.
+pre-rebase 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\pre-rebase.sample 
+.
+pre-receive 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\pre-receive.sample 
+.
+prepare-commit-msg 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\prepare-commit-msg.sample 
+.
+push-to-checkout 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\push-to-checkout.sample 
+.
+update 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\hooks\update.sample 
+.
+exclude 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\info\exclude 
+.
+HEAD 
+%05/09/2023 04:46 PM 
+%c:\Users\adams\travlr\.git\logs\HEAD 
+.
+main 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\logs\refs\heads\main 
+.
+module1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\logs\refs\heads\module1 
+.
+module2 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\logs\refs\heads\module2 
+.
+module3 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\logs\refs\heads\module3 
+.
+module4 
+%05/09/2023 04:18 PM 
+%c:\Users\adams\travlr\.git\logs\refs\heads\module4 
+.
+module5 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\logs\refs\heads\module5 
+.
+module6 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\logs\refs\heads\module6 
+.
+module7 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\logs\refs\heads\module7 
+.
+HEAD 
+%05/09/2023 05:18 PM 
+%c:\Users\adams\travlr\.git\logs\refs\remotes\origin\HEAD 
+.
+main 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\logs\refs\remotes\origin\main 
+.
+module1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\logs\refs\remotes\origin\module1 
+.
+module2 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\logs\refs\remotes\origin\module2 
+.
+module3 
+%05/09/2023 04:16 PM 
+%c:\Users\adams\travlr\.git\logs\refs\remotes\origin\module3 
+.
+module4 
+%05/09/2023 04:19 PM 
+%c:\Users\adams\travlr\.git\logs\refs\remotes\origin\module4 
+.
+module5 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\logs\refs\remotes\origin\module5 
+.
+module6 
+%05/09/2023 04:37 PM 
+%c:\Users\adams\travlr\.git\logs\refs\remotes\origin\module6 
+.
+module7 
+%05/09/2023 04:43 PM 
+%c:\Users\adams\travlr\.git\logs\refs\remotes\origin\module7 
+.
+1bb623d29aecaba544238b55ee136e974a1291 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\00\1bb623d29aecaba544238b55ee136e974a1291 
+.
+940d58e4916cd1ffc19d1c5acad81dfba07fad 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\00\940d58e4916cd1ffc19d1c5acad81dfba07fad 
+.
+0ac941e1568d59c89b67cb649051a14608ee79 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\01\0ac941e1568d59c89b67cb649051a14608ee79 
+.
+bd8dc38f2ead10727c60b89d48f40be8f610b5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\01\bd8dc38f2ead10727c60b89d48f40be8f610b5 
+.
+ea47185f05a3fe723fcd70fa244f00fb919cd6 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\01\ea47185f05a3fe723fcd70fa244f00fb919cd6 
+.
+8c829c2fb5ede441e5dba22a865451a59884f2 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\02\8c829c2fb5ede441e5dba22a865451a59884f2 
+.
+9d936d1d2daebe4b46a3f5c252c94ab0f16f8b 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\02\9d936d1d2daebe4b46a3f5c252c94ab0f16f8b 
+.
+9da0f196e73d721592d9babe887b7b35ef8b18 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\02\9da0f196e73d721592d9babe887b7b35ef8b18 
+.
+c5aff072e6b460aaaa4fe82ec94d797a2f6f32 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\02\c5aff072e6b460aaaa4fe82ec94d797a2f6f32 
+.
+ee1e0e3214fb51a5c96f382a191815eab75dc0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\02\ee1e0e3214fb51a5c96f382a191815eab75dc0 
+.
+f5be7b51578e7cdfaa7020eaaf4dd29c1fd0a5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\02\f5be7b51578e7cdfaa7020eaaf4dd29c1fd0a5 
+.
+83c02f77262d21a5acb7e122dcfe83a95c7443 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\03\83c02f77262d21a5acb7e122dcfe83a95c7443 
+.
+c1148d959ba4a4098b15016e345bb626898594 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\03\c1148d959ba4a4098b15016e345bb626898594 
+.
+4afbedd2cefcbdaec2149795b9a3b4c4fdf40c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\04\4afbedd2cefcbdaec2149795b9a3b4c4fdf40c 
+.
+6b99c17dfa8cebdbf127093fe46e78f3ff1adf 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\04\6b99c17dfa8cebdbf127093fe46e78f3ff1adf 
+.
+d92c3671917ccc900f195b81e020f104b0e97a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\04\d92c3671917ccc900f195b81e020f104b0e97a 
+.
+a4ddb65e29da1e2183f8ce0647e99b72cd579a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\05\a4ddb65e29da1e2183f8ce0647e99b72cd579a 
+.
+6764594629782e6ce6230a816009574509e020 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\06\6764594629782e6ce6230a816009574509e020 
+.
+8275ae5bdc354a2109152bb62920ec1cea7ce1 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\06\8275ae5bdc354a2109152bb62920ec1cea7ce1 
+.
+8a3eb33fd7d2cbf693f387a2094babf823850c 
+%05/06/2023 05:31 PM 
+%c:\Users\adams\travlr\.git\objects\06\8a3eb33fd7d2cbf693f387a2094babf823850c 
+.
+d1274a025a8a30879f31c9c6703a14f79f73b9 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\06\d1274a025a8a30879f31c9c6703a14f79f73b9 
+.
+d5ee2d482989e22a37d8e34b88621faa665ee0 
+%05/09/2023 04:43 PM 
+%c:\Users\adams\travlr\.git\objects\06\d5ee2d482989e22a37d8e34b88621faa665ee0 
+.
+efb36cb0ee7ca90fd948afd5241b8f6d37c8e4 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\06\efb36cb0ee7ca90fd948afd5241b8f6d37c8e4 
+.
+14e6341f5de558956d75c1ea0c21ed40b1d61e 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\07\14e6341f5de558956d75c1ea0c21ed40b1d61e 
+.
+33f92ef6c3047d8920196dacff987b609194b5 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\07\33f92ef6c3047d8920196dacff987b609194b5 
+.
+4393ecaf1705b9a6170c35ad23d55df943f306 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\07\4393ecaf1705b9a6170c35ad23d55df943f306 
+.
+ada27a6e885ca36a06348a4431430b7ddeada8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\07\ada27a6e885ca36a06348a4431430b7ddeada8 
+.
+25219f7cf1d4d47c13bdfe8937d869f150aead 
+%05/09/2023 04:18 PM 
+%c:\Users\adams\travlr\.git\objects\08\25219f7cf1d4d47c13bdfe8937d869f150aead 
+.
+28a8ff467d9bd1ad171c486ef5d928bb4a3f8a 
+%05/09/2023 04:38 PM 
+%c:\Users\adams\travlr\.git\objects\08\28a8ff467d9bd1ad171c486ef5d928bb4a3f8a 
+.
+5a7d9dccf588b145ed565a1784a7bd9487368d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\08\5a7d9dccf588b145ed565a1784a7bd9487368d 
+.
+d91ecabecd14d241b0847ab020af65c446199d 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\objects\08\d91ecabecd14d241b0847ab020af65c446199d 
+.
+e94241a03aa68a67b10e33921a04e874a013c9 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\08\e94241a03aa68a67b10e33921a04e874a013c9 
+.
+0598d8bca7c1a99f7c4947a01ba5a420766cbe 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\09\0598d8bca7c1a99f7c4947a01ba5a420766cbe 
+.
+0b42ea42da487c4f14dfc97e74ca93a3fa677e 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\09\0b42ea42da487c4f14dfc97e74ca93a3fa677e 
+.
+28eb98c78778062b4891bc503598927106f45c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\09\28eb98c78778062b4891bc503598927106f45c 
+.
+6d2d0465f541102c6b78d0bb50e0976062b7af 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\09\6d2d0465f541102c6b78d0bb50e0976062b7af 
+.
+9eb49010f56ab0dd80fd0a4e58defb3bbd54fb 
+%05/06/2023 05:31 PM 
+%c:\Users\adams\travlr\.git\objects\09\9eb49010f56ab0dd80fd0a4e58defb3bbd54fb 
+.
+330b8e715053adc0c395b040a99598a93efd8a 
+%05/09/2023 04:18 PM 
+%c:\Users\adams\travlr\.git\objects\0a\330b8e715053adc0c395b040a99598a93efd8a 
+.
+3442ef290144f26950324cb3cffe69f525139c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\0a\3442ef290144f26950324cb3cffe69f525139c 
+.
+363c32f6f203841e12a5750cf8b0b01749f6f9 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\0a\363c32f6f203841e12a5750cf8b0b01749f6f9 
+.
+ece7cd38afe8bebb281ddbbabf24d28d39b08b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\0a\ece7cd38afe8bebb281ddbbabf24d28d39b08b 
+.
+8bf314d8e725167f9cb2a5ca32df8df678c708 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\0c\8bf314d8e725167f9cb2a5ca32df8df678c708 
+.
+0ed7cbf0faf3fe8a6055e653ce939273277aee 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\0d\0ed7cbf0faf3fe8a6055e653ce939273277aee 
+.
+5105eb73794b7ab88a7c30502977d10a836f45 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\0d\5105eb73794b7ab88a7c30502977d10a836f45 
+.
+5320c1b69cb8523647aeb2526418812f2b5da7 
+%05/09/2023 02:51 PM 
+%c:\Users\adams\travlr\.git\objects\0d\5320c1b69cb8523647aeb2526418812f2b5da7 
+.
+5d9133a26dd8e9feb928a37fd7cb203b880f7e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\0d\5d9133a26dd8e9feb928a37fd7cb203b880f7e 
+.
+72ea6f88d2d8b7e549c29f994349f52af484ae 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\0d\72ea6f88d2d8b7e549c29f994349f52af484ae 
+.
+aa33bfde6f78a111cb77e1c41db2598b21fbba 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\0d\aa33bfde6f78a111cb77e1c41db2598b21fbba 
+.
+220c3696b289739d47f8fc6c7c30d083ffcf73 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\0e\220c3696b289739d47f8fc6c7c30d083ffcf73 
+.
+2d99b445b89384309749f30b47c4f1024b81dd 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\0e\2d99b445b89384309749f30b47c4f1024b81dd 
+.
+2e05c9c2c995653d1f6e70dd6274d6ff13cbe8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\0e\2e05c9c2c995653d1f6e70dd6274d6ff13cbe8 
+.
+6cd98a5476a66147f97d4aa0487b329c2ce083 
+%05/07/2023 09:26 PM 
+%c:\Users\adams\travlr\.git\objects\0e\6cd98a5476a66147f97d4aa0487b329c2ce083 
+.
+eaf86491dda7203d9c2ed2171e0d7eea10317d 
+%05/09/2023 04:32 PM 
+%c:\Users\adams\travlr\.git\objects\0e\eaf86491dda7203d9c2ed2171e0d7eea10317d 
+.
+1099ca26fb461492f91e44cc36ef90be3025b6 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\0f\1099ca26fb461492f91e44cc36ef90be3025b6 
+.
+d5eb79d480e167604a02a77bd405a351bd2194 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\0f\d5eb79d480e167604a02a77bd405a351bd2194 
+.
+e5720dbee18484942ab0f3a81782c8275abc48 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\0f\e5720dbee18484942ab0f3a81782c8275abc48 
+.
+45429dc003efe2df3e7f460798a4fd61afdbd2 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\10\45429dc003efe2df3e7f460798a4fd61afdbd2 
+.
+4b5e0dbddefda8e46128177229522c0856f371 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\10\4b5e0dbddefda8e46128177229522c0856f371 
+.
+f49d12d65c26d0629cae946f5291adcbe66b9b 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\10\f49d12d65c26d0629cae946f5291adcbe66b9b 
+.
+5cb3ac07994a632a7b1409b85ee582ba77a979 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\11\5cb3ac07994a632a7b1409b85ee582ba77a979 
+.
+072c642d353bb4e86631fb9a42402416064163 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\12\072c642d353bb4e86631fb9a42402416064163 
+.
+2e8fb97a89893685730ceec66fe43d6034dad7 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\12\2e8fb97a89893685730ceec66fe43d6034dad7 
+.
+6ff033b4237334be18dafed9f2b4636f684d2d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\12\6ff033b4237334be18dafed9f2b4636f684d2d 
+.
+8a84a2b433f74a28d1eb775a8d23ba553edc37 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\13\8a84a2b433f74a28d1eb775a8d23ba553edc37 
+.
+bc32b07095814441d9be403656d99244251be0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\13\bc32b07095814441d9be403656d99244251be0 
+.
+3e47c326c1ca2e448d93650a65e7af213bc20c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\15\3e47c326c1ca2e448d93650a65e7af213bc20c 
+.
+78583088247e2a796b0ea24fc1903b5580f4a7 
+%05/08/2023 08:06 PM 
+%c:\Users\adams\travlr\.git\objects\15\78583088247e2a796b0ea24fc1903b5580f4a7 
+.
+b1f5f8602327026b4f2c4dd2ab7694096b9613 
+%05/09/2023 04:09 PM 
+%c:\Users\adams\travlr\.git\objects\15\b1f5f8602327026b4f2c4dd2ab7694096b9613 
+.
+317897b1c50a3a71bc775a8d6429f2b4c6cf98 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\16\317897b1c50a3a71bc775a8d6429f2b4c6cf98 
+.
+39090c7d9bce6c9e103d5deeae08fa492cc94f 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\16\39090c7d9bce6c9e103d5deeae08fa492cc94f 
+.
+ea9c805e57d7d2d0a2383648e3594b2bdd8e61 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\16\ea9c805e57d7d2d0a2383648e3594b2bdd8e61 
+.
+2ea3712d6f6d02d3aa287d116a9460c1f7ca3d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\17\2ea3712d6f6d02d3aa287d116a9460c1f7ca3d 
+.
+5f316fae5160002314f0550c2dd191f68ad6c4 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\17\5f316fae5160002314f0550c2dd191f68ad6c4 
+.
+86af5f713f6265988d3a1b7c225fef497cb615 
+%05/07/2023 09:26 PM 
+%c:\Users\adams\travlr\.git\objects\17\86af5f713f6265988d3a1b7c225fef497cb615 
+.
+8b8dfb398824991549b79e1514a3b2990e4734 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\17\8b8dfb398824991549b79e1514a3b2990e4734 
+.
+a9df1243a9477d3288b0828ba4eb0c35428b49 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\17\a9df1243a9477d3288b0828ba4eb0c35428b49 
+.
+306d232f81bab1e6f9f224b07b1148603b24a8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\18\306d232f81bab1e6f9f224b07b1148603b24a8 
+.
+3fea156360978d671245a5dc26bd13a32594cb 
+%05/06/2023 05:31 PM 
+%c:\Users\adams\travlr\.git\objects\18\3fea156360978d671245a5dc26bd13a32594cb 
+.
+7346466aa11bd4ef6a904b84ed415b5abc1287 
+%05/05/2023 09:02 PM 
+%c:\Users\adams\travlr\.git\objects\18\7346466aa11bd4ef6a904b84ed415b5abc1287 
+.
+830f450436afc76d1a859d1703ee0164dedd28 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\18\830f450436afc76d1a859d1703ee0164dedd28 
+.
+b2c2c82a15876eb8b55e81be1ae811cdb81f96 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\18\b2c2c82a15876eb8b55e81be1ae811cdb81f96 
+.
+f16a5eb57ac53eb24b0ae11606bfa264e4d560 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\18\f16a5eb57ac53eb24b0ae11606bfa264e4d560 
+.
+a163d49341b982a9868b9b514193b9c4ca16f4 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\19\a163d49341b982a9868b9b514193b9c4ca16f4 
+.
+c798c3e238466f2b1086f828aa2a8e59cdda25 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\19\c798c3e238466f2b1086f828aa2a8e59cdda25 
+.
+5888fdd5aec51cc9a7a8e273917d57bcbbd13d 
+%05/08/2023 08:06 PM 
+%c:\Users\adams\travlr\.git\objects\1a\5888fdd5aec51cc9a7a8e273917d57bcbbd13d 
+.
+b45ba0af6713672084343d2c68922816350bfd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\1a\b45ba0af6713672084343d2c68922816350bfd 
+.
+c992aa852e6e2b7e8de4b04b87027a09b92d1b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\1a\c992aa852e6e2b7e8de4b04b87027a09b92d1b 
+.
+e8eb612dce75c45dfd51337f31f03c24e4b036 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\1a\e8eb612dce75c45dfd51337f31f03c24e4b036 
+.
+0295aa3ffdb6dc64f265e334643be0cf264366 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\1b\0295aa3ffdb6dc64f265e334643be0cf264366 
+.
+2cce361fe88c2555c2dfebdc9ea58fd3281f53 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\1b\2cce361fe88c2555c2dfebdc9ea58fd3281f53 
+.
+5725553e762b6cd682482e5ccedf095b77bb5f 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\1b\5725553e762b6cd682482e5ccedf095b77bb5f 
+.
+c70a3729dc09f6e3d0b8668a44e28a4e20d623 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\1b\c70a3729dc09f6e3d0b8668a44e28a4e20d623 
+.
+0445ded9d6d9e14186597f83781279304a0d48 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\1c\0445ded9d6d9e14186597f83781279304a0d48 
+.
+1e8f8b1c6f13297e3627a8fd801edb2e440353 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\1c\1e8f8b1c6f13297e3627a8fd801edb2e440353 
+.
+44286b42e6f430e5e3e69a72d3c234921799be 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\1c\44286b42e6f430e5e3e69a72d3c234921799be 
+.
+e12f5451ae166d10217e1f37c9474bf24411a9 
+%05/09/2023 04:32 PM 
+%c:\Users\adams\travlr\.git\objects\1c\e12f5451ae166d10217e1f37c9474bf24411a9 
+.
+0ff19663cd2e6da7c844452d3167faab2a7580 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\1d\0ff19663cd2e6da7c844452d3167faab2a7580 
+.
+2d510eb3f727d2bbd2982c76bb09983c589b86 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\1d\2d510eb3f727d2bbd2982c76bb09983c589b86 
+.
+6971e47964f6ca537cd30a73177f9bf6b8766a 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\1d\6971e47964f6ca537cd30a73177f9bf6b8766a 
+.
+d5af1a4979d6ad9afbbd950f1023d26255e4b2 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\1d\d5af1a4979d6ad9afbbd950f1023d26255e4b2 
+.
+9bf9e25c464e24a2bfcfe03c574957c23ff96f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\1e\9bf9e25c464e24a2bfcfe03c574957c23ff96f 
+.
+bc2606000cfc0bc5b6995bbce70e5e79bef8b9 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\1e\bc2606000cfc0bc5b6995bbce70e5e79bef8b9 
+.
+bf7468b887d75466c51933f65da55e617cc578 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\1f\bf7468b887d75466c51933f65da55e617cc578 
+.
+7b945601dc41cf02d443ee31c6c17f0f058785 
+%05/08/2023 09:15 PM 
+%c:\Users\adams\travlr\.git\objects\20\7b945601dc41cf02d443ee31c6c17f0f058785 
+.
+e55d577f326f99a88347b92308381206e5cd69 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\20\e55d577f326f99a88347b92308381206e5cd69 
+.
+264b62a8112feeebc9a8fbe8d77ea5adabed9e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\21\264b62a8112feeebc9a8fbe8d77ea5adabed9e 
+.
+49d83fc10be1bd429fc644b59e7efee07c472e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\21\49d83fc10be1bd429fc644b59e7efee07c472e 
+.
+438dabbbceef6954a1a7a68038f8c440a90c79 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\22\438dabbbceef6954a1a7a68038f8c440a90c79 
+.
+3cae72045cb67ad1129a3cdba61b3d1ee43a09 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\23\3cae72045cb67ad1129a3cdba61b3d1ee43a09 
+.
+4b66abe56dfe09c4eded49a004dda73b9e4d9c 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\23\4b66abe56dfe09c4eded49a004dda73b9e4d9c 
+.
+663417e7ac507877c002c77dc056757cc34ecc 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\24\663417e7ac507877c002c77dc056757cc34ecc 
+.
+7debcdceaff9e6a0b72fd4be4c04a3199d0c9c 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\24\7debcdceaff9e6a0b72fd4be4c04a3199d0c9c 
+.
+9343c662c6d6b77a4819305edc776757faaa44 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\24\9343c662c6d6b77a4819305edc776757faaa44 
+.
+6f1eca1819c41e959a3ab77118b71f2d2b585a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\25\6f1eca1819c41e959a3ab77118b71f2d2b585a 
+.
+c6be880420173a591d1b86bba56692f58cbd95 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\25\c6be880420173a591d1b86bba56692f58cbd95 
+.
+ea45776c4122eb025f40ef3952f7e89576064e 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\25\ea45776c4122eb025f40ef3952f7e89576064e 
+.
+117cce451b2d1c6bc8529226f07c7c2d203612 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\26\117cce451b2d1c6bc8529226f07c7c2d203612 
+.
+317aa14056bc76abeba2e87b10a58248d951bc 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\26\317aa14056bc76abeba2e87b10a58248d951bc 
+.
+4284ae9734f6d4dc56f9a082e4ded4292e9c95 
+%05/07/2023 09:25 PM 
+%c:\Users\adams\travlr\.git\objects\26\4284ae9734f6d4dc56f9a082e4ded4292e9c95 
+.
+93d251eb5af5e7d65b781ed1370872f625f27a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\26\93d251eb5af5e7d65b781ed1370872f625f27a 
+.
+f21445fff253799a8a902b0fbc22335e386550 
+%05/09/2023 04:09 PM 
+%c:\Users\adams\travlr\.git\objects\26\f21445fff253799a8a902b0fbc22335e386550 
+.
+033a1d5fd355cb8d830bd1c50cefdec7ceeb3c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\27\033a1d5fd355cb8d830bd1c50cefdec7ceeb3c 
+.
+1f08ddabade553e4c709378ee9ddc014071965 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\27\1f08ddabade553e4c709378ee9ddc014071965 
+.
+852a7c952017c657535a2a5d1925aaec3b61fb 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\27\852a7c952017c657535a2a5d1925aaec3b61fb 
+.
+de6d5d81ca0331cdcb626781a2ff7e67ddae06 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\27\de6d5d81ca0331cdcb626781a2ff7e67ddae06 
+.
+93e257e0b4fea9d7b971035944c74fa1fd38a2 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\28\93e257e0b4fea9d7b971035944c74fa1fd38a2 
+.
+bfa9e1feefb88006223a0657cd69723f0b9d78 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\28\bfa9e1feefb88006223a0657cd69723f0b9d78 
+.
+2bd1c067e57024a0ad00247264f569093e4cb1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\29\2bd1c067e57024a0ad00247264f569093e4cb1 
+.
+d0c9e1a3f381829fd454dae01bc0c0c495cc90 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\29\d0c9e1a3f381829fd454dae01bc0c0c495cc90 
+.
+d65b0339418516df0406b3c66c0f0dd505b604 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\29\d65b0339418516df0406b3c66c0f0dd505b604 
+.
+62e2570672472dbb7726dfb15bb6da8c2f52ba 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\2a\62e2570672472dbb7726dfb15bb6da8c2f52ba 
+.
+6a150e22abf5904ada895987836c8562467b9c 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\2a\6a150e22abf5904ada895987836c8562467b9c 
+.
+7a8ba88ad998515ac0bf5336b658919957465a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\2a\7a8ba88ad998515ac0bf5336b658919957465a 
+.
+b186f7d2477661dea539c1bcfc15303c92587a 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\2a\b186f7d2477661dea539c1bcfc15303c92587a 
+.
+cf75950a4b1234181c19d67015c541cba1b127 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\2a\cf75950a4b1234181c19d67015c541cba1b127 
+.
+e833ee21bbdf13cb5601333b813342d069390f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\2a\e833ee21bbdf13cb5601333b813342d069390f 
+.
+38fa69c3945aa669363f5b2ca149417cc42a68 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\2b\38fa69c3945aa669363f5b2ca149417cc42a68 
+.
+5ecefc9df8aa630fdb79c5718c14a6e92aa1f1 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\2b\5ecefc9df8aa630fdb79c5718c14a6e92aa1f1 
+.
+3f5797942f916071403327ff1f86c2bb94ea3d 
+%05/06/2023 05:31 PM 
+%c:\Users\adams\travlr\.git\objects\2c\3f5797942f916071403327ff1f86c2bb94ea3d 
+.
+4433e651fd62a9f4882a6bbdc1a6468a34b63b 
+%05/06/2023 05:50 PM 
+%c:\Users\adams\travlr\.git\objects\2c\4433e651fd62a9f4882a6bbdc1a6468a34b63b 
+.
+44a01012ddd3287cd9e9fbed320ffe1b8894aa 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\2c\44a01012ddd3287cd9e9fbed320ffe1b8894aa 
+.
+6ad4c499baeeb63226f8a2f3db566ad2c893d1 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\2c\6ad4c499baeeb63226f8a2f3db566ad2c893d1 
+.
+ccf74fcfec0176ae377b5b6dd980537e02871d 
+%05/09/2023 04:32 PM 
+%c:\Users\adams\travlr\.git\objects\2c\ccf74fcfec0176ae377b5b6dd980537e02871d 
+.
+201552515d050bebb03d60d309e81717c3afb5 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\2d\201552515d050bebb03d60d309e81717c3afb5 
+.
+6c7dfb84b71ba37155fc0cd7db490cb22028f7 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\objects\2d\6c7dfb84b71ba37155fc0cd7db490cb22028f7 
+.
+4a46d41dfc9acc25624a80d71853787422442f 
+%05/05/2023 09:00 PM 
+%c:\Users\adams\travlr\.git\objects\2e\4a46d41dfc9acc25624a80d71853787422442f 
+.
+673308e9a664cea93132c294ee0bbe7fd02332 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\2e\673308e9a664cea93132c294ee0bbe7fd02332 
+.
+bf0332c09e9b1d78a45a567be630209cf4f91d 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\2e\bf0332c09e9b1d78a45a567be630209cf4f91d 
+.
+1e89c5bcdeddf4605b7079b7218e912248186a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\2f\1e89c5bcdeddf4605b7079b7218e912248186a 
+.
+37e66fa9115896e2e109f3df5873cb3add997f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\2f\37e66fa9115896e2e109f3df5873cb3add997f 
+.
+50060a6b537f351a544208d17c21e894de8a1e 
+%05/08/2023 07:55 PM 
+%c:\Users\adams\travlr\.git\objects\2f\50060a6b537f351a544208d17c21e894de8a1e 
+.
+54c89089e9b9ac593f5c2d3abcbbbbdeb2a935 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\2f\54c89089e9b9ac593f5c2d3abcbbbbdeb2a935 
+.
+1de2d1bf4ca3c8639e19111abea04eee036753 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\30\1de2d1bf4ca3c8639e19111abea04eee036753 
+.
+1fc2370980fd57e18d7297abe9f15cac41af47 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\30\1fc2370980fd57e18d7297abe9f15cac41af47 
+.
+512de3e621c511e566a811d5d639c69433923c 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\30\512de3e621c511e566a811d5d639c69433923c 
+.
+5b3d8226c218dbece9e7c06b264fda16ed2496 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\30\5b3d8226c218dbece9e7c06b264fda16ed2496 
+.
+6207cd2af7dcf5c5cf66930caf03554352f7bd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\30\6207cd2af7dcf5c5cf66930caf03554352f7bd 
+.
+ed0ec445f5fbd53693a61165c9ff341bba0778 
+%05/08/2023 07:55 PM 
+%c:\Users\adams\travlr\.git\objects\30\ed0ec445f5fbd53693a61165c9ff341bba0778 
+.
+6dffc4fd78bfd8d95a91468fdc887021ad2773 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\31\6dffc4fd78bfd8d95a91468fdc887021ad2773 
+.
+a68bcac0f86d5ab1f25b90f0c05d90f001ded9 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\31\a68bcac0f86d5ab1f25b90f0c05d90f001ded9 
+.
+965d130fbd4f59b9a6e12488cf18901004d1f8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\32\965d130fbd4f59b9a6e12488cf18901004d1f8 
+.
+3284b4ddce2f53d446222694106ad515b6e375 
+%05/09/2023 04:43 PM 
+%c:\Users\adams\travlr\.git\objects\33\3284b4ddce2f53d446222694106ad515b6e375 
+.
+bd2b11a88be606b16dccb6cd4b8e7dbd0e8781 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\33\bd2b11a88be606b16dccb6cd4b8e7dbd0e8781 
+.
+114f888643adef05fb7c2e4d3bbf1489a89f62 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\34\114f888643adef05fb7c2e4d3bbf1489a89f62 
+.
+3f2adab420fa74eb5e2a4f6d070d3717cfb143 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\34\3f2adab420fa74eb5e2a4f6d070d3717cfb143 
+.
+6374e0d480bb32692a38985e9d997af1cd9c41 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\34\6374e0d480bb32692a38985e9d997af1cd9c41 
+.
+72e9a8e6c2ce9f11aad14e769801751f255537 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\34\72e9a8e6c2ce9f11aad14e769801751f255537 
+.
+921a9b170027fc197e44b4bcd79a11b8aef23f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\34\921a9b170027fc197e44b4bcd79a11b8aef23f 
+.
+521eb54a7e4b3fcd919a0dd2cde3c9fd487768 
+%05/08/2023 08:04 PM 
+%c:\Users\adams\travlr\.git\objects\35\521eb54a7e4b3fcd919a0dd2cde3c9fd487768 
+.
+dea2a9e6f8130b6dacbde35b94f674323bf1c8 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\35\dea2a9e6f8130b6dacbde35b94f674323bf1c8 
+.
+12073bc31cd4c1f5d6cbb00318521e9a61bd8a 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\36\12073bc31cd4c1f5d6cbb00318521e9a61bd8a 
+.
+3aaf68b85c6c3ffec1c75e546a20110908de99 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\36\3aaf68b85c6c3ffec1c75e546a20110908de99 
+.
+3d81ed44fe80a044145a3941276b6e6e87fcb2 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\36\3d81ed44fe80a044145a3941276b6e6e87fcb2 
+.
+a5c5e1fb7b55b18c8411d99e4fbd69c971f890 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\36\a5c5e1fb7b55b18c8411d99e4fbd69c971f890 
+.
+bf6c94d6d93039f13f06fb04706324f258a3a0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\36\bf6c94d6d93039f13f06fb04706324f258a3a0 
+.
+22eb42d52ebcb33192046fd84b6bf2be2e259a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\37\22eb42d52ebcb33192046fd84b6bf2be2e259a 
+.
+371cb04b9f1986d952499cdf9613c9d5d8ca8c 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\37\371cb04b9f1986d952499cdf9613c9d5d8ca8c 
+.
+c39de238ac6baf1a7c6185d831031fad21563d 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\37\c39de238ac6baf1a7c6185d831031fad21563d 
+.
+e8cae802a0bcfa11653e963808068a7360307e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\37\e8cae802a0bcfa11653e963808068a7360307e 
+.
+ec93a14fdcd0d6e525d97c0cfa6b314eaa98d8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\37\ec93a14fdcd0d6e525d97c0cfa6b314eaa98d8 
+.
+433936dbf8f415b6ccb86c36c53004c3fdb32a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\39\433936dbf8f415b6ccb86c36c53004c3fdb32a 
+.
+5c48ecf558fb8a3e6607c3636230c20e111b7b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\39\5c48ecf558fb8a3e6607c3636230c20e111b7b 
+.
+6a3de1a602c6b885ded20912a6076eadc1aee8 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\39\6a3de1a602c6b885ded20912a6076eadc1aee8 
+.
+b74b9921b4cf566133a4b4c8a20c08a70744dc 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\39\b74b9921b4cf566133a4b4c8a20c08a70744dc 
+.
+bdbf154054b9f96cb153836d6d10ddd54f2a87 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\39\bdbf154054b9f96cb153836d6d10ddd54f2a87 
+.
+1cce45bffa823372db144a66fd91b1e40084d9 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3a\1cce45bffa823372db144a66fd91b1e40084d9 
+.
+252c0c80feddd6967fb5869ab3601194019e78 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\3a\252c0c80feddd6967fb5869ab3601194019e78 
+.
+3a18929725196b9fdd2e08ff08b07a39e4d758 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3a\3a18929725196b9fdd2e08ff08b07a39e4d758 
+.
+8925d136ae6efd96b42301d9e0962ec45eeb5b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3a\8925d136ae6efd96b42301d9e0962ec45eeb5b 
+.
+8c066c66b1dee2e3cf793eb0d2f6ced8a06dee 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3a\8c066c66b1dee2e3cf793eb0d2f6ced8a06dee 
+.
+b4f7a2eefc93a12d597eda06c8128fb649b820 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3a\b4f7a2eefc93a12d597eda06c8128fb649b820 
+.
+d24235a65549f5865996e482116c36da185c5d 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\3a\d24235a65549f5865996e482116c36da185c5d 
+.
+71dfbe4bee77c8f5d4c3b6cb655c1707ee8bfc 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\3b\71dfbe4bee77c8f5d4c3b6cb655c1707ee8bfc 
+.
+94763a76eef0599dba6d0a7044b89c5a9d2033 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\3b\94763a76eef0599dba6d0a7044b89c5a9d2033 
+.
+eba682b3466762835f1dbdb4ddf2caad88609c 
+%05/09/2023 04:18 PM 
+%c:\Users\adams\travlr\.git\objects\3b\eba682b3466762835f1dbdb4ddf2caad88609c 
+.
+a92e56f2a8cf086821031145ed60c53f8e9ab2 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3c\a92e56f2a8cf086821031145ed60c53f8e9ab2 
+.
+ab03a53587aa066f350b6eb1950cd209a787fd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3c\ab03a53587aa066f350b6eb1950cd209a787fd 
+.
+05b54489410a1ccd0033f510ffc1ebc407b9b2 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3d\05b54489410a1ccd0033f510ffc1ebc407b9b2 
+.
+70173e892afc042d3158b5f595fb5da4504658 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3d\70173e892afc042d3158b5f595fb5da4504658 
+.
+cafb51a664b8f92f5e0a0ab06075fd6ea4f4a4 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3d\cafb51a664b8f92f5e0a0ab06075fd6ea4f4a4 
+.
+e9261ce168306d62e73611baa24f6295b0ca59 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3d\e9261ce168306d62e73611baa24f6295b0ca59 
+.
+0534c8d551c4ade3030ce446ecb40ef9bc2890 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3e\0534c8d551c4ade3030ce446ecb40ef9bc2890 
+.
+244b81128f7451864ca6413e7c5973861b7cf5 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\3e\244b81128f7451864ca6413e7c5973861b7cf5 
+.
+71b68c624899e18115c3efe3e842f66056822e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3e\71b68c624899e18115c3efe3e842f66056822e 
+.
+9fcf572d62dfab5cdac7e28dd4a12695acb4d4 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\3e\9fcf572d62dfab5cdac7e28dd4a12695acb4d4 
+.
+0da9fc7ee5b4f449846ee5006f95df854783b0 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\3f\0da9fc7ee5b4f449846ee5006f95df854783b0 
+.
+126b755215763548af067261af6257bc31a16d 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\objects\3f\126b755215763548af067261af6257bc31a16d 
+.
+14a4780a75301be07aa36f9605ccc534d99a9d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3f\14a4780a75301be07aa36f9605ccc534d99a9d 
+.
+26f60cc5e96fbb0687fd5a2a591c28dc543297 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3f\26f60cc5e96fbb0687fd5a2a591c28dc543297 
+.
+2f8b792edbd621d06c399ff4c722234f233742 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3f\2f8b792edbd621d06c399ff4c722234f233742 
+.
+59ca8427d1db55360b10e848b89432887f0c62 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\3f\59ca8427d1db55360b10e848b89432887f0c62 
+.
+efed9d26fb932c719530cf883d68b296293ada 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\3f\efed9d26fb932c719530cf883d68b296293ada 
+.
+86b608bee49e0e5697150aeef2b7cf86deb19c 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\40\86b608bee49e0e5697150aeef2b7cf86deb19c 
+.
+feb653d4ebe675620af6e034a1aeb9b973cdb4 
+%05/09/2023 03:02 PM 
+%c:\Users\adams\travlr\.git\objects\40\feb653d4ebe675620af6e034a1aeb9b973cdb4 
+.
+135e218dc7e3890b0b1c5ca0845c1336275722 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\41\135e218dc7e3890b0b1c5ca0845c1336275722 
+.
+61a3f6e00b068ac4e49046291cc67071a55315 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\41\61a3f6e00b068ac4e49046291cc67071a55315 
+.
+6b4b52b43928315e987fc0003938e70803ab69 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\41\6b4b52b43928315e987fc0003938e70803ab69 
+.
+b30ca538008579c77b2fcb9f7410f28c15826e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\41\b30ca538008579c77b2fcb9f7410f28c15826e 
+.
+151d4eebfee3e5ced1bb82a5e18e995d19b565 
+%05/09/2023 04:39 PM 
+%c:\Users\adams\travlr\.git\objects\43\151d4eebfee3e5ced1bb82a5e18e995d19b565 
+.
+5d560f69a825bf02d25c000da577b088f5f8b8 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\43\5d560f69a825bf02d25c000da577b088f5f8b8 
+.
+6db472598a1adc1641df34523cb600b2708421 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\43\6db472598a1adc1641df34523cb600b2708421 
+.
+ac7ed054cb728b68210c2762f31abb0167a72d 
+%05/08/2023 07:50 PM 
+%c:\Users\adams\travlr\.git\objects\44\ac7ed054cb728b68210c2762f31abb0167a72d 
+.
+dcca5affafd66c1da3cc8c105229b9a1faa663 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\44\dcca5affafd66c1da3cc8c105229b9a1faa663 
+.
+11f66de34b73d7890d1fd1e1cde5d7079e7dfc 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\45\11f66de34b73d7890d1fd1e1cde5d7079e7dfc 
+.
+a1aa3b710ab29b005c9f6c1e6eaa4e8d931bbe 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\45\a1aa3b710ab29b005c9f6c1e6eaa4e8d931bbe 
+.
+b5e8a95b74eeab54f7fa5ede81ccc6a99ba0e1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\45\b5e8a95b74eeab54f7fa5ede81ccc6a99ba0e1 
+.
+bc2bf83c485357dd12432f19a41b95f698528d 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\45\bc2bf83c485357dd12432f19a41b95f698528d 
+.
+dc95cc41579ca7d1f31cbc2538e14f85165250 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\45\dc95cc41579ca7d1f31cbc2538e14f85165250 
+.
+eaec159553328bee38166058808ccde115adaf 
+%05/09/2023 03:02 PM 
+%c:\Users\adams\travlr\.git\objects\45\eaec159553328bee38166058808ccde115adaf 
+.
+801942191f9607197c219e32e8a1c8aba9c4e5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\46\801942191f9607197c219e32e8a1c8aba9c4e5 
+.
+cb6a90f47d71649651230a3f0c16c23ab08331 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\46\cb6a90f47d71649651230a3f0c16c23ab08331 
+.
+dbbb5f455dd52666387dfa147181e37c16b435 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\46\dbbb5f455dd52666387dfa147181e37c16b435 
+.
+6c23ecca3130931c676cf37a2a22f9b1d3e8d7 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\47\6c23ecca3130931c676cf37a2a22f9b1d3e8d7 
+.
+30cb86cbb7743a6f4a7210415a0864f5ffff46 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\48\30cb86cbb7743a6f4a7210415a0864f5ffff46 
+.
+952ec86f66fc0967bc0fa7e7b2dd94d1d9c70c 
+%05/09/2023 04:39 PM 
+%c:\Users\adams\travlr\.git\objects\48\952ec86f66fc0967bc0fa7e7b2dd94d1d9c70c 
+.
+2cfefd8d9bc45201676d76b3fc71d8a97c7b40 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\49\2cfefd8d9bc45201676d76b3fc71d8a97c7b40 
+.
+2ef24314795d189ff071537f6059648ebc3da3 
+%05/07/2023 09:36 PM 
+%c:\Users\adams\travlr\.git\objects\49\2ef24314795d189ff071537f6059648ebc3da3 
+.
+65c52980147711c6c82f7783c9a29913e6a1bb 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\49\65c52980147711c6c82f7783c9a29913e6a1bb 
+.
+e5185ea642f822a20e9ae0ec85d3a030264033 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\49\e5185ea642f822a20e9ae0ec85d3a030264033 
+.
+fd9e7a0ad5d8ac6cb83c949abdc9946104dd33 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\49\fd9e7a0ad5d8ac6cb83c949abdc9946104dd33 
+.
+174ba089a713a74e78bf610d6ff9d7c977c701 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4a\174ba089a713a74e78bf610d6ff9d7c977c701 
+.
+1b7ae539b34e87fa0db091247b48c786bc67e5 
+%05/05/2023 09:06 PM 
+%c:\Users\adams\travlr\.git\objects\4a\1b7ae539b34e87fa0db091247b48c786bc67e5 
+.
+4884742388e75caf283ab44ad6bfa7a3f64655 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\4a\4884742388e75caf283ab44ad6bfa7a3f64655 
+.
+6c86beb79daf2b29df4520f43894d324d94b6c 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\4a\6c86beb79daf2b29df4520f43894d324d94b6c 
+.
+7b84385bbfdc74314f5e8f7cc4c36afd52b8bd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4a\7b84385bbfdc74314f5e8f7cc4c36afd52b8bd 
+.
+4fa184894da1210ecb56077f983e97cf6a2206 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\objects\4b\4fa184894da1210ecb56077f983e97cf6a2206 
+.
+825dc642cb6eb9a060e54bf8d69288fbee4904 
+%05/09/2023 04:39 PM 
+%c:\Users\adams\travlr\.git\objects\4b\825dc642cb6eb9a060e54bf8d69288fbee4904 
+.
+8a05aae804ba8460a1e9ac662dc428c26678b4 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\4b\8a05aae804ba8460a1e9ac662dc428c26678b4 
+.
+ed375d45ad7c8e320e55266dc211107d1a65f1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4b\ed375d45ad7c8e320e55266dc211107d1a65f1 
+.
+356d237e20be6926f242439653676b66b08846 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\4c\356d237e20be6926f242439653676b66b08846 
+.
+89daba05f2cf9400fa565452831e02298951d7 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4d\89daba05f2cf9400fa565452831e02298951d7 
+.
+9d5806f9ef816482de3000e1d7b8d8dfe1ea70 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4d\9d5806f9ef816482de3000e1d7b8d8dfe1ea70 
+.
+f469a05d1a293ac67077f149f17b24ff49d2b1 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\4d\f469a05d1a293ac67077f149f17b24ff49d2b1 
+.
+03698db44d09897f91d600e6f1ed1055b2601e 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\4e\03698db44d09897f91d600e6f1ed1055b2601e 
+.
+0ff0f5ce73700cc538dd11c62d3d4ee9e1e90f 
+%05/07/2023 09:30 PM 
+%c:\Users\adams\travlr\.git\objects\4e\0ff0f5ce73700cc538dd11c62d3d4ee9e1e90f 
+.
+9f6250f08ea8e005b66729630660a3db195566 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4e\9f6250f08ea8e005b66729630660a3db195566 
+.
+c13d1f4c9ca6ecb56ba76d84eb5422eacbf41e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4e\c13d1f4c9ca6ecb56ba76d84eb5422eacbf41e 
+.
+c7b87c2c82dd84b7f8f7d76eddf0b80bb100d6 
+%05/09/2023 02:51 PM 
+%c:\Users\adams\travlr\.git\objects\4e\c7b87c2c82dd84b7f8f7d76eddf0b80bb100d6 
+.
+fac1733eb9f72b536ba94b2d6730c02378c38c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4e\fac1733eb9f72b536ba94b2d6730c02378c38c 
+.
+14175178183092ed0b2d11015a9e1ac05bd8a5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4f\14175178183092ed0b2d11015a9e1ac05bd8a5 
+.
+2e0ca447f4ccc2fb7ba4df3876bf45d3f0423a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4f\2e0ca447f4ccc2fb7ba4df3876bf45d3f0423a 
+.
+72c017d8d88c0b64b984dcaf2ffa1f4498e00d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4f\72c017d8d88c0b64b984dcaf2ffa1f4498e00d 
+.
+daf1d3943f5a16b9d76af9cd7bbc82f2f54b54 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\4f\daf1d3943f5a16b9d76af9cd7bbc82f2f54b54 
+.
+e5b71a0b5d62b6768c46f7b982289b2987bac3 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\4f\e5b71a0b5d62b6768c46f7b982289b2987bac3 
+.
+0408b6740f5311fa67ac7f619ef3884c6b82fb 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\50\0408b6740f5311fa67ac7f619ef3884c6b82fb 
+.
+33400a931dbd31e25663aed928ac81e8688357 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\50\33400a931dbd31e25663aed928ac81e8688357 
+.
+7ecb8de21d5d0d2db42ec03b99a5efd610acf7 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\50\7ecb8de21d5d0d2db42ec03b99a5efd610acf7 
+.
+8bcfbbc936da21673108f7ace72a0af6081664 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\50\8bcfbbc936da21673108f7ace72a0af6081664 
+.
+9ac4fab5b50a7f6d8a7b60d1c1270f86708df8 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\50\9ac4fab5b50a7f6d8a7b60d1c1270f86708df8 
+.
+9f03da6790b5f95bec1730a14f405638f28232 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\50\9f03da6790b5f95bec1730a14f405638f28232 
+.
+2a0e1d6c0d4084be23ac0b1bb93156e48fb596 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\51\2a0e1d6c0d4084be23ac0b1bb93156e48fb596 
+.
+6a443f959ba6bc9c5eebaffc2a11a0c63b6e5d 
+%05/08/2023 07:57 PM 
+%c:\Users\adams\travlr\.git\objects\51\6a443f959ba6bc9c5eebaffc2a11a0c63b6e5d 
+.
+a8feca96e94116e701f4b3aa574a98b039a31f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\51\a8feca96e94116e701f4b3aa574a98b039a31f 
+.
+2e1f0c0d2d487d7c0555c6994b7363062aa71f 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\52\2e1f0c0d2d487d7c0555c6994b7363062aa71f 
+.
+a6a91903028d5230729df63afcdb80d79b0c68 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\52\a6a91903028d5230729df63afcdb80d79b0c68 
+.
+e2c1a5a74ce268bec92d34cd3bca751624adb3 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\52\e2c1a5a74ce268bec92d34cd3bca751624adb3 
+.
+39ac09bfa340e362337d704047996d31edd081 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\53\39ac09bfa340e362337d704047996d31edd081 
+.
+7029e941481d9b80e9700c2e94b1942a1bc1cd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\53\7029e941481d9b80e9700c2e94b1942a1bc1cd 
+.
+e390cb7e8f16fe0025020ad0b541f1366e8570 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\53\e390cb7e8f16fe0025020ad0b541f1366e8570 
+.
+49c514fa88e4bfbcb73d0354cb632dc2cf5e8e 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\54\49c514fa88e4bfbcb73d0354cb632dc2cf5e8e 
+.
+50f9cd26048ba21d2b0ab52b08a0fd5273ec30 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\54\50f9cd26048ba21d2b0ab52b08a0fd5273ec30 
+.
+a6693383f4b22df9a0bf7fa30f4fa234cfffd2 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\54\a6693383f4b22df9a0bf7fa30f4fa234cfffd2 
+.
+241ecb7ebe018a5c2d7e477f9f2b46f4ee0d5c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\55\241ecb7ebe018a5c2d7e477f9f2b46f4ee0d5c 
+.
+ae803f8164c7d658869c6a64d832bd91116d0f 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\55\ae803f8164c7d658869c6a64d832bd91116d0f 
+.
+c3d29367a4216abea3dc5eaa48b59826da355b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\55\c3d29367a4216abea3dc5eaa48b59826da355b 
+.
+f8e2dbb035291905b6226b9f16c21627b5e7b6 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\objects\55\f8e2dbb035291905b6226b9f16c21627b5e7b6 
+.
+f9737e0c67b9dbdd8ab5bf89dcde8d6cc0f3b8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\55\f9737e0c67b9dbdd8ab5bf89dcde8d6cc0f3b8 
+.
+fac72a69882e4d2f5cb638b01c1409de570054 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\55\fac72a69882e4d2f5cb638b01c1409de570054 
+.
+20aba321d9909afd1545fb1ff82f4c93f3a83c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\56\20aba321d9909afd1545fb1ff82f4c93f3a83c 
+.
+32dfc44c50c868dd226f305e59e99a620b760c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\56\32dfc44c50c868dd226f305e59e99a620b760c 
+.
+a5c3765853dbd2a8c1f3c2a947b44945af6cc4 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\56\a5c3765853dbd2a8c1f3c2a947b44945af6cc4 
+.
+e660c84406dee51bdfdfede6268c5a9218e884 
+%05/09/2023 04:43 PM 
+%c:\Users\adams\travlr\.git\objects\56\e660c84406dee51bdfdfede6268c5a9218e884 
+.
+032be2bbdd71d4acc763a8b32a4f40b95bdb31 
+%05/09/2023 04:18 PM 
+%c:\Users\adams\travlr\.git\objects\57\032be2bbdd71d4acc763a8b32a4f40b95bdb31 
+.
+09b0a92abd01ac6b4d602e22daec4416bc8144 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\57\09b0a92abd01ac6b4d602e22daec4416bc8144 
+.
+70dc96f21af78f281672ab20759cc6912c585a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\57\70dc96f21af78f281672ab20759cc6912c585a 
+.
+76de16c00f455b1d27da8e698abd74efa293ca 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\57\76de16c00f455b1d27da8e698abd74efa293ca 
+.
+0272e18a949f67bdb24174f30f3f20f15ec9f6 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\58\0272e18a949f67bdb24174f30f3f20f15ec9f6 
+.
+10cd20166622e6e101a95fb5deca59449e8e57 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\58\10cd20166622e6e101a95fb5deca59449e8e57 
+.
+3187ae25a4ac1631c98297ee09ad6417d161e0 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\58\3187ae25a4ac1631c98297ee09ad6417d161e0 
+.
+d56391a8208d4fc2fc97375ac97c03b89955c1 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\58\d56391a8208d4fc2fc97375ac97c03b89955c1 
+.
+79c8f5f3488933d5fde856d6957e7efc0c9880 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\59\79c8f5f3488933d5fde856d6957e7efc0c9880 
+.
+c0f5881eda3811eda9539f6c1277a94a379be6 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\59\c0f5881eda3811eda9539f6c1277a94a379be6 
+.
+cc323d3ef35635cd719560672620fe103a118b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\59\cc323d3ef35635cd719560672620fe103a118b 
+.
+f4dddbdeb0fa472d09c041cf85f17f381c0bf0 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\59\f4dddbdeb0fa472d09c041cf85f17f381c0bf0 
+.
+2c7b5044a7d668be2e957c2bf8f5e5ad8375f0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5a\2c7b5044a7d668be2e957c2bf8f5e5ad8375f0 
+.
+3ec1f982432e15d0f9ed916a7c085cb488c8cd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5a\3ec1f982432e15d0f9ed916a7c085cb488c8cd 
+.
+0041ea7df5a0a2dd39cd2583274d36f64c7316 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5b\0041ea7df5a0a2dd39cd2583274d36f64c7316 
+.
+365089000f6d15a926b88c68b33b958c024c4b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5b\365089000f6d15a926b88c68b33b958c024c4b 
+.
+919bd649aa97ff6b28488eac2f7b21bfb953ac 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5b\919bd649aa97ff6b28488eac2f7b21bfb953ac 
+.
+976262700b41e02ca74a0667410373d6ebfa17 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5b\976262700b41e02ca74a0667410373d6ebfa17 
+.
+ba3c07ae2336a0bc5fb25f8005fc49e561550f 
+%05/08/2023 08:06 PM 
+%c:\Users\adams\travlr\.git\objects\5b\ba3c07ae2336a0bc5fb25f8005fc49e561550f 
+.
+c17be6983165111b87aacfa83cff8e51e0d2da 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\5b\c17be6983165111b87aacfa83cff8e51e0d2da 
+.
+052dcdd72510e8f1ba957143084bed2a64d334 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\5c\052dcdd72510e8f1ba957143084bed2a64d334 
+.
+2580748ba0e950a65f7a61471cbda20fce1c9f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5c\2580748ba0e950a65f7a61471cbda20fce1c9f 
+.
+4e6aef31d2d5779db9c7d1f49577c05f147e60 
+%05/05/2023 09:03 PM 
+%c:\Users\adams\travlr\.git\objects\5c\4e6aef31d2d5779db9c7d1f49577c05f147e60 
+.
+69102ef9b8e710a5773eb88743b10d4dfbc6ad 
+%05/09/2023 03:25 PM 
+%c:\Users\adams\travlr\.git\objects\5c\69102ef9b8e710a5773eb88743b10d4dfbc6ad 
+.
+739f5608ef8078bf001f9ee8e0cb24bcef208d 
+%05/09/2023 04:32 PM 
+%c:\Users\adams\travlr\.git\objects\5c\739f5608ef8078bf001f9ee8e0cb24bcef208d 
+.
+c76be954d9f809da26a19e54db5c638a781012 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5c\c76be954d9f809da26a19e54db5c638a781012 
+.
+f2f7833b1dccabde09738c4148f1315a861c8a 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\5c\f2f7833b1dccabde09738c4148f1315a861c8a 
+.
+3d987c712f31e46363bb8333054e02181b4c1e 
+%05/06/2023 05:31 PM 
+%c:\Users\adams\travlr\.git\objects\5d\3d987c712f31e46363bb8333054e02181b4c1e 
+.
+b1739b6bc263a815076fed62e29d8ccae97988 
+%05/09/2023 04:09 PM 
+%c:\Users\adams\travlr\.git\objects\5d\b1739b6bc263a815076fed62e29d8ccae97988 
+.
+0bc56db57c62785fe1f3a290288c2c74dca157 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5e\0bc56db57c62785fe1f3a290288c2c74dca157 
+.
+3c863216e40f9cf555d15b8183c8f232646f1d 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\5e\3c863216e40f9cf555d15b8183c8f232646f1d 
+.
+743fc78ae424fbbbb9d0ef0c93fd7479bc9052 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\5e\743fc78ae424fbbbb9d0ef0c93fd7479bc9052 
+.
+f50b6f91971089bb789a4ac4ae3c6f8a4aaee2 
+%05/09/2023 04:43 PM 
+%c:\Users\adams\travlr\.git\objects\5e\f50b6f91971089bb789a4ac4ae3c6f8a4aaee2 
+.
+fad029d2840c73e2ea15bc64312824b4ef722a 
+%05/09/2023 03:02 PM 
+%c:\Users\adams\travlr\.git\objects\5e\fad029d2840c73e2ea15bc64312824b4ef722a 
+.
+3d758bc62e742b17c4ae3de9124f6761b7bb62 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5f\3d758bc62e742b17c4ae3de9124f6761b7bb62 
+.
+7b0c36f7b1e01c37cb462a55bda3b67a14c65f 
+%05/09/2023 04:32 PM 
+%c:\Users\adams\travlr\.git\objects\5f\7b0c36f7b1e01c37cb462a55bda3b67a14c65f 
+.
+8bdfd819e9b8a934682a69a8ce5c4f9450db0e 
+%05/08/2023 07:57 PM 
+%c:\Users\adams\travlr\.git\objects\5f\8bdfd819e9b8a934682a69a8ce5c4f9450db0e 
+.
+8eface03895259729a0422cbd21fcb22d77845 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\5f\8eface03895259729a0422cbd21fcb22d77845 
+.
+c98ed36ee14c20221af02624365aa22f863b8a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\5f\c98ed36ee14c20221af02624365aa22f863b8a 
+.
+8f01f73b13ce7a807a6738beaffde63a49361d 
+%05/07/2023 09:36 PM 
+%c:\Users\adams\travlr\.git\objects\60\8f01f73b13ce7a807a6738beaffde63a49361d 
+.
+eff1192b8a53d460878949db2a76527610380a 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\60\eff1192b8a53d460878949db2a76527610380a 
+.
+f3320dab462c7744a11677dd6ee9ac982f30f3 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\60\f3320dab462c7744a11677dd6ee9ac982f30f3 
+.
+1482596b9403ecd34dfa0d6ebb8ca1a2656e9d 
+%05/09/2023 02:51 PM 
+%c:\Users\adams\travlr\.git\objects\61\1482596b9403ecd34dfa0d6ebb8ca1a2656e9d 
+.
+2b404018ece911ab71fc0a8db326d16e6b1287 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\61\2b404018ece911ab71fc0a8db326d16e6b1287 
+.
+7aeb48b53cca81cddd7f5dd8b4a3525d8da3f3 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\61\7aeb48b53cca81cddd7f5dd8b4a3525d8da3f3 
+.
+8b750f0899425f2be12f2c19d3f549c0df0d35 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\61\8b750f0899425f2be12f2c19d3f549c0df0d35 
+.
+c704dff274edecb3a05cff12e499406f15fe71 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\61\c704dff274edecb3a05cff12e499406f15fe71 
+.
+3fbc3f6b0c480fb0b3257fc666b1db827378bf 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\62\3fbc3f6b0c480fb0b3257fc666b1db827378bf 
+.
+6cd3cfafb91dd8ee40fdeb6f5da9c61fbd580f 
+%05/05/2023 09:06 PM 
+%c:\Users\adams\travlr\.git\objects\62\6cd3cfafb91dd8ee40fdeb6f5da9c61fbd580f 
+.
+7928dcb47ad7778f5391e0ed1f59d22e5b0991 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\objects\62\7928dcb47ad7778f5391e0ed1f59d22e5b0991 
+.
+be68352dd16c130a08e4f97b6708b60282286e 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\62\be68352dd16c130a08e4f97b6708b60282286e 
+.
+f7533730e3ed8625cd75a7cc57b520d4f47e5a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\62\f7533730e3ed8625cd75a7cc57b520d4f47e5a 
+.
+5d9dc1a024eccddd986ccc7781270c8de16a3d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\63\5d9dc1a024eccddd986ccc7781270c8de16a3d 
+.
+758ca101a94297901aebaada29bfb5f67d3695 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\63\758ca101a94297901aebaada29bfb5f67d3695 
+.
+8457b159dded9358297659e3672232e1ecd92c 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\63\8457b159dded9358297659e3672232e1ecd92c 
+.
+89433de1924f38e7b1dd69c60fdfdc34720845 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\63\89433de1924f38e7b1dd69c60fdfdc34720845 
+.
+c055d082985b92590c1f30f5873e93828363cb 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\63\c055d082985b92590c1f30f5873e93828363cb 
+.
+d266b0535ec4377a92692074d28008e092d271 
+%05/05/2023 09:02 PM 
+%c:\Users\adams\travlr\.git\objects\63\d266b0535ec4377a92692074d28008e092d271 
+.
+e0a166ca5de5527f83499f40bfa5f32b1a7626 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\64\e0a166ca5de5527f83499f40bfa5f32b1a7626 
+.
+f2e769380f456a31b2e77046783b98d96339f5 
+%05/09/2023 04:38 PM 
+%c:\Users\adams\travlr\.git\objects\64\f2e769380f456a31b2e77046783b98d96339f5 
+.
+59bedecf27630f83a73bfbc2f66a141c8f553d 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\65\59bedecf27630f83a73bfbc2f66a141c8f553d 
+.
+7aa863916374955aa2bd77c3a668919adb04dc 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\65\7aa863916374955aa2bd77c3a668919adb04dc 
+.
+d9d90927b91baa152a32e1485479307f1acf44 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\65\d9d90927b91baa152a32e1485479307f1acf44 
+.
+f42e1a275da83ad8c3ff29e94c28caaecaf9fa 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\65\f42e1a275da83ad8c3ff29e94c28caaecaf9fa 
+.
+f70e35bdb5f64535ee528a0babeecdf56c2ce7 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\66\f70e35bdb5f64535ee528a0babeecdf56c2ce7 
+.
+ac1e70d3b87a3d07f231976728a0d1a06ab64e 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\67\ac1e70d3b87a3d07f231976728a0d1a06ab64e 
+.
+0623333399ee2ea8e2bfc705cccd62e8add730 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\68\0623333399ee2ea8e2bfc705cccd62e8add730 
+.
+6f6749e9aa0b12fa9e57a27e2a66e653795b45 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\68\6f6749e9aa0b12fa9e57a27e2a66e653795b45 
+.
+9c9f4d9d6fbef6eaaea19a4cbbcbba2f365aab 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\68\9c9f4d9d6fbef6eaaea19a4cbbcbba2f365aab 
+.
+0bd5bb2dfbd21a850ebec8986710d26a334237 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\69\0bd5bb2dfbd21a850ebec8986710d26a334237 
+.
+0c4064758cfe0e08c621c1187a504cfd275c0a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\69\0c4064758cfe0e08c621c1187a504cfd275c0a 
+.
+f96221bd0912d9c931388155a65c69fd4b1301 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\69\f96221bd0912d9c931388155a65c69fd4b1301 
+.
+518fb7865adec306ca3cbfdbe3bb0ac66fc60a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6a\518fb7865adec306ca3cbfdbe3bb0ac66fc60a 
+.
+611cfcb4e2f5e051b48950170c8c6b85dd2d71 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\6a\611cfcb4e2f5e051b48950170c8c6b85dd2d71 
+.
+7caadbbdbea1865cfb947cb21fbf0c8da1289a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6a\7caadbbdbea1865cfb947cb21fbf0c8da1289a 
+.
+97393b7c0dcf9c9923fe5aa6c989eeda9ad221 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\6a\97393b7c0dcf9c9923fe5aa6c989eeda9ad221 
+.
+c96afd21e464322a17f3091f6e07ad76d2a7dd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6a\c96afd21e464322a17f3091f6e07ad76d2a7dd 
+.
+fecacb3910a0039937590b808ff2569d45a7fc 
+%05/05/2023 08:53 PM 
+%c:\Users\adams\travlr\.git\objects\6a\fecacb3910a0039937590b808ff2569d45a7fc 
+.
+4f8862c932648b2acd2cd1005038a9766efc71 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6b\4f8862c932648b2acd2cd1005038a9766efc71 
+.
+525a74fbeb9d26218525246ed74605666c818a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6b\525a74fbeb9d26218525246ed74605666c818a 
+.
+9f560ba1c52d322c8fa4d8b50e9e180f397776 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\6b\9f560ba1c52d322c8fa4d8b50e9e180f397776 
+.
+aacd4dbf0b2d802168aa807e78ee5f61e80b6e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6b\aacd4dbf0b2d802168aa807e78ee5f61e80b6e 
+.
+ac72cab2e7d4b373b6de18fe0b4aa0c54354cf 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\6c\ac72cab2e7d4b373b6de18fe0b4aa0c54354cf 
+.
+e15d381d33d5126998ce348c491c7779e75352 
+%05/09/2023 04:18 PM 
+%c:\Users\adams\travlr\.git\objects\6c\e15d381d33d5126998ce348c491c7779e75352 
+.
+1b53a7a7ee1fcbeb9b12c9804f83ff90f46ccd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6d\1b53a7a7ee1fcbeb9b12c9804f83ff90f46ccd 
+.
+db6b2931511b11e5d5938f76076fb37e70363e 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\6d\db6b2931511b11e5d5938f76076fb37e70363e 
+.
+48e7ee47b0132e10d57409551fd8449d56b858 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6e\48e7ee47b0132e10d57409551fd8449d56b858 
+.
+4c698dfb9e371d159dfd70b3b1cb4217df0a8a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6e\4c698dfb9e371d159dfd70b3b1cb4217df0a8a 
+.
+629dd34ef0942c19c4d124542f5f030c228ae4 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6e\629dd34ef0942c19c4d124542f5f030c228ae4 
+.
+87a003da89defd554080af5af93600cc9f91fe 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\6e\87a003da89defd554080af5af93600cc9f91fe 
+.
+0c5c894ad9695a0979cabb46238c7ddfc27b02 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6f\0c5c894ad9695a0979cabb46238c7ddfc27b02 
+.
+128a0d5ef7805e2f11ccc467cdbd28c9f53b46 
+%05/08/2023 08:04 PM 
+%c:\Users\adams\travlr\.git\objects\6f\128a0d5ef7805e2f11ccc467cdbd28c9f53b46 
+.
+55867cf1c95aa1b3e306fa167e2d8ce9289579 
+%05/05/2023 08:53 PM 
+%c:\Users\adams\travlr\.git\objects\6f\55867cf1c95aa1b3e306fa167e2d8ce9289579 
+.
+5d25f24185c092079fa92ce5461573fdd730b8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6f\5d25f24185c092079fa92ce5461573fdd730b8 
+.
+71d9a691caecaffd3c2c9c14bc3d65da81454c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6f\71d9a691caecaffd3c2c9c14bc3d65da81454c 
+.
+a43b23cbce6d7f3684a4969be31c63248c0bcf 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6f\a43b23cbce6d7f3684a4969be31c63248c0bcf 
+.
+aaa152a23c3ce96add9a3b3d9502b29c997be2 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6f\aaa152a23c3ce96add9a3b3d9502b29c997be2 
+.
+ec7b0ef6f4dc3331ffc4a67652c6df2812e963 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\6f\ec7b0ef6f4dc3331ffc4a67652c6df2812e963 
+.
+f506a9275feddb5a6e0eac58998833b4d4ae26 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\6f\f506a9275feddb5a6e0eac58998833b4d4ae26 
+.
+285f27ec075b5c6769c60f93ec7f786505cfa1 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\70\285f27ec075b5c6769c60f93ec7f786505cfa1 
+.
+3a17eb6557bf2bef1fc3c9ddb9aa8f09f2eac7 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\70\3a17eb6557bf2bef1fc3c9ddb9aa8f09f2eac7 
+.
+414d2e3d020e5c81259e14916f6ce8f37ef31d 
+%05/08/2023 08:04 PM 
+%c:\Users\adams\travlr\.git\objects\70\414d2e3d020e5c81259e14916f6ce8f37ef31d 
+.
+7881771e275240a0e0d6d4d2fb8d31a564d74f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\70\7881771e275240a0e0d6d4d2fb8d31a564d74f 
+.
+7c976938e7a76713fa0aa6d1983bc85511cf91 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\70\7c976938e7a76713fa0aa6d1983bc85511cf91 
+.
+392c557026ef953d1328b2758eca35957e78cd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\71\392c557026ef953d1328b2758eca35957e78cd 
+.
+835a0960a93b655a0cd86c078ca269b8b08f6e 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\71\835a0960a93b655a0cd86c078ca269b8b08f6e 
+.
+e5b23da5f5a95f8b04b1fa13b6e9c3f5de038f 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\71\e5b23da5f5a95f8b04b1fa13b6e9c3f5de038f 
+.
+2256b49ad7391763a0dbe96fddeea611b93f27 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\72\2256b49ad7391763a0dbe96fddeea611b93f27 
+.
+6f81a3c2d461c33f8f845d375bcbbe8b56d15e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\72\6f81a3c2d461c33f8f845d375bcbbe8b56d15e 
+.
+8d9c63b5d2482b72167eb81aac4dcb29c2558e 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\72\8d9c63b5d2482b72167eb81aac4dcb29c2558e 
+.
+c3a62ec2324f43cd048b9f48f45408a22a232e 
+%05/07/2023 09:25 PM 
+%c:\Users\adams\travlr\.git\objects\72\c3a62ec2324f43cd048b9f48f45408a22a232e 
+.
+ffad6cbb6860f8037a25d25c042869ee50c3d5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\72\ffad6cbb6860f8037a25d25c042869ee50c3d5 
+.
+186dc644a3667aaab933bd6a9c187f87afd055 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\73\186dc644a3667aaab933bd6a9c187f87afd055 
+.
+55c6edcd0a4028bcb769df37aa9d0fc124894c 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\73\55c6edcd0a4028bcb769df37aa9d0fc124894c 
+.
+7676f774127a4afdaf8d7283ee5e2d173741ff 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\73\7676f774127a4afdaf8d7283ee5e2d173741ff 
+.
+d7ca2e1f44094f07044c23da508583542b2296 
+%05/09/2023 04:43 PM 
+%c:\Users\adams\travlr\.git\objects\73\d7ca2e1f44094f07044c23da508583542b2296 
+.
+e6bce1ba1ab62808288e399ff9f551cfc85119 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\73\e6bce1ba1ab62808288e399ff9f551cfc85119 
+.
+56216f4f61a986e3006d6c0556230931f3e1ab 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\74\56216f4f61a986e3006d6c0556230931f3e1ab 
+.
+da3234b4844a2d381a0c6f29f893beee5591bd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\74\da3234b4844a2d381a0c6f29f893beee5591bd 
+.
+dc7487456225c9c34123af5a125a6522c1dfd5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\74\dc7487456225c9c34123af5a125a6522c1dfd5 
+.
+62bd43857dd9532be2bec00e1f862fac869b45 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\75\62bd43857dd9532be2bec00e1f862fac869b45 
+.
+677824a3d740051367fd08e790eabf4ad2732d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\75\677824a3d740051367fd08e790eabf4ad2732d 
+.
+8fc6be88200d873123d42bce7484a83eab021d 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\75\8fc6be88200d873123d42bce7484a83eab021d 
+.
+0f32e5d6af2e682cd6fe4d736ab4aa51f3918d 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\76\0f32e5d6af2e682cd6fe4d736ab4aa51f3918d 
+.
+20cfe4294f5f31be4bcac2d64c80819ebb9706 
+%05/07/2023 09:45 PM 
+%c:\Users\adams\travlr\.git\objects\76\20cfe4294f5f31be4bcac2d64c80819ebb9706 
+.
+8cf1b426ecda400c17f4c340cb5ab76493c578 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\76\8cf1b426ecda400c17f4c340cb5ab76493c578 
+.
+bb01f1245f15f6a6a0a848f3560129e6454714 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\76\bb01f1245f15f6a6a0a848f3560129e6454714 
+.
+49121d388ffe77d3e9ae2747bc48e05da0f6d8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\77\49121d388ffe77d3e9ae2747bc48e05da0f6d8 
+.
+906702044fe2ff41a4a50695666a48df89aa29 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\77\906702044fe2ff41a4a50695666a48df89aa29 
+.
+3fde7319269ddd1d7ace93dd980634cffbd8a1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\78\3fde7319269ddd1d7ace93dd980634cffbd8a1 
+.
+5f0c4de8922c5270645c0d50a5e939dafc4645 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\78\5f0c4de8922c5270645c0d50a5e939dafc4645 
+.
+92e668376f505a09ca33d036e5cd8bc907a9d1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\78\92e668376f505a09ca33d036e5cd8bc907a9d1 
+.
+3a7cc3edcc047a8189fc061ae48a465e9f055b 
+%05/06/2023 05:52 PM 
+%c:\Users\adams\travlr\.git\objects\79\3a7cc3edcc047a8189fc061ae48a465e9f055b 
+.
+3c504ed6bc38905ba81289ec9a4ca34966862a 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\79\3c504ed6bc38905ba81289ec9a4ca34966862a 
+.
+663d82f6538f140724bbbe7862a0fc6b9b6cfe 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\79\663d82f6538f140724bbbe7862a0fc6b9b6cfe 
+.
+96410fe63dc68875bbc16230e73d42c7058105 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\79\96410fe63dc68875bbc16230e73d42c7058105 
+.
+de9caba177b926ce1aefa2e87fed1387acc742 
+%05/09/2023 03:25 PM 
+%c:\Users\adams\travlr\.git\objects\79\de9caba177b926ce1aefa2e87fed1387acc742 
+.
+eac862fc44754ea4cd71f16311768f3224678e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\79\eac862fc44754ea4cd71f16311768f3224678e 
+.
+ed1d3aa70453c641721c880f08bccd9e3d960e 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\79\ed1d3aa70453c641721c880f08bccd9e3d960e 
+.
+cb5479c0e8fff510e3b34bbed9a76a74f5aa15 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7a\cb5479c0e8fff510e3b34bbed9a76a74f5aa15 
+.
+4f817adb754769ca126a939d48ac4b0850489d 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\7b\4f817adb754769ca126a939d48ac4b0850489d 
+.
+59790acecb937831a0e93c72d74f8742bac82b 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\7b\59790acecb937831a0e93c72d74f8742bac82b 
+.
+649eba5396cfc720e9f33109caaad744bbb1fe 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7b\649eba5396cfc720e9f33109caaad744bbb1fe 
+.
+99d1da7feac7c5345af8945ed047c7c054c0ba 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7b\99d1da7feac7c5345af8945ed047c7c054c0ba 
+.
+d63204d8fb12d99222be94af87c99bb675fe05 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7b\d63204d8fb12d99222be94af87c99bb675fe05 
+.
+f57d42f6ba5d610393d5129265c2b4b0cd924e 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\7b\f57d42f6ba5d610393d5129265c2b4b0cd924e 
+.
+1cfe952818553dff7797043804de0aac4ac4ee 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7c\1cfe952818553dff7797043804de0aac4ac4ee 
+.
+3d921e027b402deb8d326d5b7792519ab0e15e 
+%05/05/2023 08:53 PM 
+%c:\Users\adams\travlr\.git\objects\7c\3d921e027b402deb8d326d5b7792519ab0e15e 
+.
+3fc55443cdbd8fd484678e6731bf011706dfa5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7c\3fc55443cdbd8fd484678e6731bf011706dfa5 
+.
+4907adc1e53b16e6fa70db165bee5b32dfdf48 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7c\4907adc1e53b16e6fa70db165bee5b32dfdf48 
+.
+6fadeef95de419cf02d292e8cf716367977995 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7c\6fadeef95de419cf02d292e8cf716367977995 
+.
+9232f7a885ddee034c487649ded47f99176a77 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\7c\9232f7a885ddee034c487649ded47f99176a77 
+.
+99d5af53bb38196925485d0ee18c2a68ea94b0 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\7c\99d5af53bb38196925485d0ee18c2a68ea94b0 
+.
+a19829d5d293fc90e5e84cce9b4f24429fd14a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7c\a19829d5d293fc90e5e84cce9b4f24429fd14a 
+.
+ab7dfc0ebc9a7da5e60ea4de0717370c439aca 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7c\ab7dfc0ebc9a7da5e60ea4de0717370c439aca 
+.
+f62b95c4042acfc022693bb954a6d42b3b1f83 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\7c\f62b95c4042acfc022693bb954a6d42b3b1f83 
+.
+0e8b54cc7aaadb3af2f3eb95918096bca45327 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7d\0e8b54cc7aaadb3af2f3eb95918096bca45327 
+.
+14facc9dbc6967d382bfb171c0e81f9ec9cd17 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\7d\14facc9dbc6967d382bfb171c0e81f9ec9cd17 
+.
+1d3acd216b515a5f7aa8412c0cdd75b77f6553 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\7d\1d3acd216b515a5f7aa8412c0cdd75b77f6553 
+.
+1f71946a20980ac89d025f99966016f720411b 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\7d\1f71946a20980ac89d025f99966016f720411b 
+.
+7e069ff90ce453570541e69b9511f108e57244 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7d\7e069ff90ce453570541e69b9511f108e57244 
+.
+b6375ed5b3dcf5f047957f0827ee1d9300b624 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7d\b6375ed5b3dcf5f047957f0827ee1d9300b624 
+.
+b6839838e3bd7b50a6ec8049a30452e12f31a0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7d\b6839838e3bd7b50a6ec8049a30452e12f31a0 
+.
+93d05ebf2ff0402175b6db63ba9cbb047e2aa6 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7e\93d05ebf2ff0402175b6db63ba9cbb047e2aa6 
+.
+ac75e05f40357b88b145baf6dae891c766ee45 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7e\ac75e05f40357b88b145baf6dae891c766ee45 
+.
+acd7e76900af556583904f86cc37a14dfb2754 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7e\acd7e76900af556583904f86cc37a14dfb2754 
+.
+fc87482747cf774275173213147b225616be23 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\7e\fc87482747cf774275173213147b225616be23 
+.
+06d19ca0a7e2f3c20beb35c824ed496bd224e1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\7f\06d19ca0a7e2f3c20beb35c824ed496bd224e1 
+.
+3d05ae5d2e99ce4ac84a34b33562a91e522d2f 
+%05/08/2023 08:02 PM 
+%c:\Users\adams\travlr\.git\objects\7f\3d05ae5d2e99ce4ac84a34b33562a91e522d2f 
+.
+88adb6e359db97b5fa6f0eaa2ce6d89de764b5 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\7f\88adb6e359db97b5fa6f0eaa2ce6d89de764b5 
+.
+2bf8eedcf221ba55404ad00245b72bebfcb53b 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\80\2bf8eedcf221ba55404ad00245b72bebfcb53b 
+.
+4796820351bfb7b68bb0293e424232b9d5ecb7 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\80\4796820351bfb7b68bb0293e424232b9d5ecb7 
+.
+81c7ceaf2be08bf59010158c586170d9d2d517 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\80\81c7ceaf2be08bf59010158c586170d9d2d517 
+.
+6e795d89372aa4eb3fdc6b727f03d9b230e1c8 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\81\6e795d89372aa4eb3fdc6b727f03d9b230e1c8 
+.
+7d22877611a5348c1d14ddf14a1121b6bfd3fe 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\81\7d22877611a5348c1d14ddf14a1121b6bfd3fe 
+.
+c4d2778737f4075e49c14f8c6a8f58cb7e7d12 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\81\c4d2778737f4075e49c14f8c6a8f58cb7e7d12 
+.
+419c92c281017ff5d262911a9bc8147ee3de84 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\82\419c92c281017ff5d262911a9bc8147ee3de84 
+.
+6b48aad37d2c5c7f86a504dfab1ff478723914 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\82\6b48aad37d2c5c7f86a504dfab1ff478723914 
+.
+6bf029d966b554a740c689f6b147f1b3648c31 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\82\6bf029d966b554a740c689f6b147f1b3648c31 
+.
+ea75ba504ab2726e4bd08d89e69e99b7a711ba 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\82\ea75ba504ab2726e4bd08d89e69e99b7a711ba 
+.
+5d8f30856106552611863ed10600c7e58ff23e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\83\5d8f30856106552611863ed10600c7e58ff23e 
+.
+787e31802a79d97965b946c8504aa4154eef48 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\83\787e31802a79d97965b946c8504aa4154eef48 
+.
+825e04f26bf8b77e61dcb253466a1b53d860ca 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\83\825e04f26bf8b77e61dcb253466a1b53d860ca 
+.
+de6257b744e8a086e413bd3e9d97c3b2db2115 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\83\de6257b744e8a086e413bd3e9d97c3b2db2115 
+.
+2d23010c6000ccdf6f0e463f50c7a7445cb9c2 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\84\2d23010c6000ccdf6f0e463f50c7a7445cb9c2 
+.
+3994a7c43d7d8ea66acf932711832500bd8c23 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\84\3994a7c43d7d8ea66acf932711832500bd8c23 
+.
+4ea2272c9dc784456b9c32f397295c1e29ce03 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\84\4ea2272c9dc784456b9c32f397295c1e29ce03 
+.
+1a2ab35b0cad6b4ed9e3b0ab60528d05a4ff40 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\85\1a2ab35b0cad6b4ed9e3b0ab60528d05a4ff40 
+.
+2dc908edeba27d910c227ac7722a384346e146 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\85\2dc908edeba27d910c227ac7722a384346e146 
+.
+6a3c9b7ad6623352c53eb6e6b5e6425ca6ea1f 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\85\6a3c9b7ad6623352c53eb6e6b5e6425ca6ea1f 
+.
+fb5297665dbb7fcf8082516747a71c8f84689d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\85\fb5297665dbb7fcf8082516747a71c8f84689d 
+.
+4c0398f52e0f17029367be2c7c0d89bd718191 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\86\4c0398f52e0f17029367be2c7c0d89bd718191 
+.
+776a391a5b48b32506eb0fa62b15ed6c926b69 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\86\776a391a5b48b32506eb0fa62b15ed6c926b69 
+.
+804c03428c6802af0d01298a5616a3fa5f7e12 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\87\804c03428c6802af0d01298a5616a3fa5f7e12 
+.
+90d78170e9b49b77dace2e994dcf0f90f3683c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\87\90d78170e9b49b77dace2e994dcf0f90f3683c 
+.
+bcb0a7a0cddf09d216f19e0acfe924b235b8e5 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\87\bcb0a7a0cddf09d216f19e0acfe924b235b8e5 
+.
+f41929edb4197f4f40ab10c819316824e2752d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\87\f41929edb4197f4f40ab10c819316824e2752d 
+.
+15771174f36f24b90ff7260d8400550ff8d527 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\88\15771174f36f24b90ff7260d8400550ff8d527 
+.
+77b2feb4e5bb80977427d00c9d49a7832d3c6b 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\88\77b2feb4e5bb80977427d00c9d49a7832d3c6b 
+.
+866d3557cab9b288df074ab09f35ae634fe612 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\88\866d3557cab9b288df074ab09f35ae634fe612 
+.
+9f6d92c662ae61f0fd74efad29cdf5ecf0615f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\88\9f6d92c662ae61f0fd74efad29cdf5ecf0615f 
+.
+bdf865d691ae36efdf12f5cc2c94710a49feec 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\88\bdf865d691ae36efdf12f5cc2c94710a49feec 
+.
+d73876fe33f45623c783e152dc6c84126d5a6b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\88\d73876fe33f45623c783e152dc6c84126d5a6b 
+.
+ff483fd0d4cd9a9e6cd7247658abda6b17ec27 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\88\ff483fd0d4cd9a9e6cd7247658abda6b17ec27 
+.
+041f613a2c9dc159c50c9edaf0d21534df34cd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\89\041f613a2c9dc159c50c9edaf0d21534df34cd 
+.
+b8e99cf32aac6214d534ba3b1d875c3b3db58c 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\objects\89\b8e99cf32aac6214d534ba3b1d875c3b3db58c 
+.
+0600f2f6e9a8662e5d59a38422830892dc7fb4 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\8a\0600f2f6e9a8662e5d59a38422830892dc7fb4 
+.
+a86b30264363990334a7df0aa0d0c9cc1aecfc 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\8a\a86b30264363990334a7df0aa0d0c9cc1aecfc 
+.
+f79983217bd7920c7126e2c793aca90a45f991 
+%05/06/2023 05:47 PM 
+%c:\Users\adams\travlr\.git\objects\8a\f79983217bd7920c7126e2c793aca90a45f991 
+.
+71240914c20486d7069ff3edb72e85d8e840e2 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\8b\71240914c20486d7069ff3edb72e85d8e840e2 
+.
+cdbe385d2c0d333bcd62648ca700f13f9d3181 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\8b\cdbe385d2c0d333bcd62648ca700f13f9d3181 
+.
+729fe2981ed596379b07a3553b563ed7c0643a 
+%05/08/2023 08:08 PM 
+%c:\Users\adams\travlr\.git\objects\8c\729fe2981ed596379b07a3553b563ed7c0643a 
+.
+3d8cf8b64c142fdc461e1062ea0be9a37aa38a 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\8d\3d8cf8b64c142fdc461e1062ea0be9a37aa38a 
+.
+4ae2536ae49d6408b7ae0aa1bbafb312238138 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\8d\4ae2536ae49d6408b7ae0aa1bbafb312238138 
+.
+99313fa564625e19c542e8d68ec6561451e63d 
+%05/09/2023 03:25 PM 
+%c:\Users\adams\travlr\.git\objects\8d\99313fa564625e19c542e8d68ec6561451e63d 
+.
+e5d70cd77d30a091b7d950566b13861bc5037f 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\8e\e5d70cd77d30a091b7d950566b13861bc5037f 
+.
+6b642c11eb5f08bda41e963a43155650174d5c 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\8f\6b642c11eb5f08bda41e963a43155650174d5c 
+.
+972b0cfbf389901ed4392a635f91d5cf2bf0e0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\8f\972b0cfbf389901ed4392a635f91d5cf2bf0e0 
+.
+b7f383fef3ad4cee0d54665638b333c381a03d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\8f\b7f383fef3ad4cee0d54665638b333c381a03d 
+.
+c55d21f9f26f8d66304f4296184edb71f0fda8 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\8f\c55d21f9f26f8d66304f4296184edb71f0fda8 
+.
+e4ad41a050df81dcc10d72d3204345f53bff13 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\8f\e4ad41a050df81dcc10d72d3204345f53bff13 
+.
+1e28ccc4ead8ab5a7bf1e162ee98101ec4a111 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\90\1e28ccc4ead8ab5a7bf1e162ee98101ec4a111 
+.
+d4ee0072ce3fc41812f8af910219f9eea3c3de 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\90\d4ee0072ce3fc41812f8af910219f9eea3c3de 
+.
+fa37b1b66abd31b66248a3886fe18ff43e85b8 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\90\fa37b1b66abd31b66248a3886fe18ff43e85b8 
+.
+06e646ed0f6082e36d5f8c1d34a95e649329e0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\91\06e646ed0f6082e36d5f8c1d34a95e649329e0 
+.
+1ad4ada476167a6df0e68a72eef51b95dbf0a0 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\91\1ad4ada476167a6df0e68a72eef51b95dbf0a0 
+.
+5f84ab3ea9f40a87273ab11677fbb7aab235c5 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\91\5f84ab3ea9f40a87273ab11677fbb7aab235c5 
+.
+6247e4cb29ef8666bebd0f7e9a4abed8bbf928 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\91\6247e4cb29ef8666bebd0f7e9a4abed8bbf928 
+.
+9c34b1004dc49a62c11f5608095749b85dc31e 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\91\9c34b1004dc49a62c11f5608095749b85dc31e 
+.
+cd646a7bea9ea9335e52b32260815d0c66fd16 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\92\cd646a7bea9ea9335e52b32260815d0c66fd16 
+.
+de2d1e23680eb7f73be73d21104f4b2c27b895 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\92\de2d1e23680eb7f73be73d21104f4b2c27b895 
+.
+2c3789bf5370022a4f5c37a8b62777137a5c40 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\93\2c3789bf5370022a4f5c37a8b62777137a5c40 
+.
+ea4176c6e770436959666cdd610778c975e989 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\93\ea4176c6e770436959666cdd610778c975e989 
+.
+ebbd592aa4a20e173420ed314d991878bce489 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\93\ebbd592aa4a20e173420ed314d991878bce489 
+.
+1147b8540603bea52ef07b3df37714b9004c42 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\94\1147b8540603bea52ef07b3df37714b9004c42 
+.
+d47b3d7f333b2f6133cfd070cdf5be79860dcd 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\94\d47b3d7f333b2f6133cfd070cdf5be79860dcd 
+.
+09303ed44fb77de1f6c5c713c2e8032773a0af 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\95\09303ed44fb77de1f6c5c713c2e8032773a0af 
+.
+359b8fa3f4c804edf897f18878a01d182bbf8c 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\95\359b8fa3f4c804edf897f18878a01d182bbf8c 
+.
+5b3336b25e790857ad269ae7794953f42f5682 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\95\5b3336b25e790857ad269ae7794953f42f5682 
+.
+d862ec308df6e4be598b515fb11387f15af1cc 
+%05/08/2023 09:15 PM 
+%c:\Users\adams\travlr\.git\objects\95\d862ec308df6e4be598b515fb11387f15af1cc 
+.
+016862e6e2b1df7ce09ac60e4eb966160a056e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\96\016862e6e2b1df7ce09ac60e4eb966160a056e 
+.
+086fe13947e4142a0ad2263deb3feca36566fc 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\96\086fe13947e4142a0ad2263deb3feca36566fc 
+.
+3409bd765957542183417a7e426c4ee4c79a98 
+%05/05/2023 09:02 PM 
+%c:\Users\adams\travlr\.git\objects\96\3409bd765957542183417a7e426c4ee4c79a98 
+.
+5037bfb89e0fa4c570f13eeb147f545a6f6867 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\96\5037bfb89e0fa4c570f13eeb147f545a6f6867 
+.
+262317f272a87060adb00cdb721112ad00f753 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\97\262317f272a87060adb00cdb721112ad00f753 
+.
+de0eb9ac6ec05d2bfb5d2e468a979eaab235d7 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\97\de0eb9ac6ec05d2bfb5d2e468a979eaab235d7 
+.
+783ba54b89ddf2357dfb89e8172b76111a6a25 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\98\783ba54b89ddf2357dfb89e8172b76111a6a25 
+.
+b6ca42b951b0fbc8e8b21b261d17e9eb2d4031 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\98\b6ca42b951b0fbc8e8b21b261d17e9eb2d4031 
+.
+c7614465fb4ca52c8327e19a8c0cff14c7672b 
+%05/05/2023 09:00 PM 
+%c:\Users\adams\travlr\.git\objects\98\c7614465fb4ca52c8327e19a8c0cff14c7672b 
+.
+f5969903def11f5537c879773eb1baeff20ce3 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\98\f5969903def11f5537c879773eb1baeff20ce3 
+.
+ff0e9924e5e1e24df2a1518d941de9c2a6d61c 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\98\ff0e9924e5e1e24df2a1518d941de9c2a6d61c 
+.
+fa209bcf7f72b3d3d8aa6162ce99739bff508a 
+%05/05/2023 09:00 PM 
+%c:\Users\adams\travlr\.git\objects\99\fa209bcf7f72b3d3d8aa6162ce99739bff508a 
+.
+65a04421665618094137e7774d7352541b5a43 
+%05/09/2023 02:51 PM 
+%c:\Users\adams\travlr\.git\objects\9a\65a04421665618094137e7774d7352541b5a43 
+.
+bd98f9d386260ca739c293c035b83252619f6a 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\9a\bd98f9d386260ca739c293c035b83252619f6a 
+.
+eea9b97bebaaadefc73fe5090123b37bf59a03 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\9a\eea9b97bebaaadefc73fe5090123b37bf59a03 
+.
+4d568a229874cf61f5235347dbf60e841f9410 
+%05/09/2023 03:02 PM 
+%c:\Users\adams\travlr\.git\objects\9b\4d568a229874cf61f5235347dbf60e841f9410 
+.
+725f7526066563f4791ac89ec62498cf64e5d0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\9b\725f7526066563f4791ac89ec62498cf64e5d0 
+.
+93ca7ba61dfa0e597c768e3d81c32a35141c36 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\9b\93ca7ba61dfa0e597c768e3d81c32a35141c36 
+.
+f6757f36ca88b771b7d59b365bb4c0b622ba2a 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\9b\f6757f36ca88b771b7d59b365bb4c0b622ba2a 
+.
+058ab26b8f46ed1dd840e11f01f4f3295c1510 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\9c\058ab26b8f46ed1dd840e11f01f4f3295c1510 
+.
+4b162555add4c99cad5b0b48ffb72f638b9c54 
+%05/07/2023 09:25 PM 
+%c:\Users\adams\travlr\.git\objects\9c\4b162555add4c99cad5b0b48ffb72f638b9c54 
+.
+e6b3d82aeade4360c5575d2793c57dbc140ca8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\9c\e6b3d82aeade4360c5575d2793c57dbc140ca8 
+.
+8f3a895e60787e8f4edb1d759843251bd2173e 
+%05/09/2023 04:09 PM 
+%c:\Users\adams\travlr\.git\objects\9d\8f3a895e60787e8f4edb1d759843251bd2173e 
+.
+90ffb2642b4caddde1ec6fb0cff2e78192bb09 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\9d\90ffb2642b4caddde1ec6fb0cff2e78192bb09 
+.
+d6a251251279c6300b867aa23527dd104e7358 
+%05/06/2023 03:26 PM 
+%c:\Users\adams\travlr\.git\objects\9d\d6a251251279c6300b867aa23527dd104e7358 
+.
+6543ece3e2f0b066e5aa00e847c1c02171f8ae 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\9e\6543ece3e2f0b066e5aa00e847c1c02171f8ae 
+.
+6cd63616e0b0b5d1233fb655bc025756dc6b6f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\9e\6cd63616e0b0b5d1233fb655bc025756dc6b6f 
+.
+75d01ccf01988ad482de0f5796d0a8ad43ea36 
+%05/06/2023 05:31 PM 
+%c:\Users\adams\travlr\.git\objects\9f\75d01ccf01988ad482de0f5796d0a8ad43ea36 
+.
+ef51f1fa8d9bf8ef9e92ad2ce5742f009ab941 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\9f\ef51f1fa8d9bf8ef9e92ad2ce5742f009ab941 
+.
+f8597dd97da7a387f319fe7d71176315979c0e 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\9f\f8597dd97da7a387f319fe7d71176315979c0e 
+.
+0a889a87bb3c9e4a1e92588a4f874abba2cd0c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a0\0a889a87bb3c9e4a1e92588a4f874abba2cd0c 
+.
+12c732913f08800dd8f1418bdb7390abe523f6 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\a0\12c732913f08800dd8f1418bdb7390abe523f6 
+.
+4f6b2215699661217f70e63640c937b57b9b6b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a0\4f6b2215699661217f70e63640c937b57b9b6b 
+.
+97647e752a8c26df581a2bf448c49694066ff5 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\a0\97647e752a8c26df581a2bf448c49694066ff5 
+.
+cf1fceec445af6390dd3e57da31b7f09e8328c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a0\cf1fceec445af6390dd3e57da31b7f09e8328c 
+.
+e11574403abbf8c96765d9fe3baac8ebe17571 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\a0\e11574403abbf8c96765d9fe3baac8ebe17571 
+.
+178e76d34226272e1a48e2eea907addfb426b4 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\a1\178e76d34226272e1a48e2eea907addfb426b4 
+.
+7a30d4ef1ec6f8617d082685021be2c22b83bc 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\a1\7a30d4ef1ec6f8617d082685021be2c22b83bc 
+.
+8888b2a5083ba3f1a4e9f8953ce377a3583805 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\a1\8888b2a5083ba3f1a4e9f8953ce377a3583805 
+.
+a54a399b11656d70f05a3d557007ecf867f8d4 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a1\a54a399b11656d70f05a3d557007ecf867f8d4 
+.
+eaaf2b66db8873febb956c18b70856b1fc38a5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a1\eaaf2b66db8873febb956c18b70856b1fc38a5 
+.
+276543c4e9b6eead9a394e326743a2162ab96a 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\a2\276543c4e9b6eead9a394e326743a2162ab96a 
+.
+30a44ced25b57105236bc3cff736eaffb4ad86 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a2\30a44ced25b57105236bc3cff736eaffb4ad86 
+.
+4aa6f7bbbd5280891eb365098e54394b603c42 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\a2\4aa6f7bbbd5280891eb365098e54394b603c42 
+.
+0fab13b9f3a692f28834aa6b706238cd662f4c 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\a3\0fab13b9f3a692f28834aa6b706238cd662f4c 
+.
+6fc424647c09fcb6d751c7e80d4044f6f0a358 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a3\6fc424647c09fcb6d751c7e80d4044f6f0a358 
+.
+fbaae9880f76debafe3861b39c9d22ff00c9a4 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a3\fbaae9880f76debafe3861b39c9d22ff00c9a4 
+.
+186861bda90e4822e79cc721bbf97c9ab9f799 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\a4\186861bda90e4822e79cc721bbf97c9ab9f799 
+.
+43d598f88da1d4130d07d75ba4d72630ed8dd6 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\a4\43d598f88da1d4130d07d75ba4d72630ed8dd6 
+.
+4ed1620c57f2c928a6e39398e371cc6f263f5e 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\a4\4ed1620c57f2c928a6e39398e371cc6f263f5e 
+.
+665e1058b5ec7c0878346930549353824e058b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a4\665e1058b5ec7c0878346930549353824e058b 
+.
+c86cc0a44f302566265c43ae344b9a035171b0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a4\c86cc0a44f302566265c43ae344b9a035171b0 
+.
+de29d664e99bc8fc25ea441a86d6dfbb49c552 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a4\de29d664e99bc8fc25ea441a86d6dfbb49c552 
+.
+fe6c0566d61ac1e4719535bd72dbfafc4daa06 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a4\fe6c0566d61ac1e4719535bd72dbfafc4daa06 
+.
+2240fe2f1f16b2e10c689ed08e26febf46bb06 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a5\2240fe2f1f16b2e10c689ed08e26febf46bb06 
+.
+2a48c291fad9b574acd54a1d33288a119850d5 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\a5\2a48c291fad9b574acd54a1d33288a119850d5 
+.
+06a69c1eb56dc821084f8cc3e4094a11bb35b3 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a6\06a69c1eb56dc821084f8cc3e4094a11bb35b3 
+.
+2c541e4205161d5f2eb09c51253bcb6444c2e2 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a6\2c541e4205161d5f2eb09c51253bcb6444c2e2 
+.
+4cd11bae82cb8cd98d5adffcb9f2cf845a2140 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a6\4cd11bae82cb8cd98d5adffcb9f2cf845a2140 
+.
+dd6220282460dae17d69fc030b94ab1e81d960 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\a6\dd6220282460dae17d69fc030b94ab1e81d960 
+.
+ecf4142dd6d688a1530c7c98b713c9361da255 
+%05/05/2023 09:06 PM 
+%c:\Users\adams\travlr\.git\objects\a6\ecf4142dd6d688a1530c7c98b713c9361da255 
+.
+09199922f094dbb818c74360edb02deab298f3 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\a7\09199922f094dbb818c74360edb02deab298f3 
+.
+3fa571e5b251d60625b5f71c632f637d425107 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a7\3fa571e5b251d60625b5f71c632f637d425107 
+.
+4789addfd7a25a1d713451562d1f3db9d46461 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a7\4789addfd7a25a1d713451562d1f3db9d46461 
+.
+aebe8977a7adefc3acca490699988411eba1cc 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\a8\aebe8977a7adefc3acca490699988411eba1cc 
+.
+c5394d5f86af20286854f2c5a9fb9757b2c400 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a8\c5394d5f86af20286854f2c5a9fb9757b2c400 
+.
+d28e4f1ac4d7b266db1de2a8356989133078fc 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\a8\d28e4f1ac4d7b266db1de2a8356989133078fc 
+.
+366222e92a9f9a7a2a4c4cf7cf0f011510924d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a9\366222e92a9f9a7a2a4c4cf7cf0f011510924d 
+.
+70b2aecf43528a55d36ec55b61c154a550b7b8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a9\70b2aecf43528a55d36ec55b61c154a550b7b8 
+.
+9d152001f6cc9b005631ec0385e8a15fbe8d5d 
+%05/09/2023 04:32 PM 
+%c:\Users\adams\travlr\.git\objects\a9\9d152001f6cc9b005631ec0385e8a15fbe8d5d 
+.
+a6b0b4b50b6ddf07b06eca24b2621d9e43ff21 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\a9\a6b0b4b50b6ddf07b06eca24b2621d9e43ff21 
+.
+aaf53049847414fd7fbb6db52f666be65c5913 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\a9\aaf53049847414fd7fbb6db52f666be65c5913 
+.
+eaedc7492aa5ab5ed5a5825e1134bb797b8a00 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\a9\eaedc7492aa5ab5ed5a5825e1134bb797b8a00 
+.
+3f4907fe889e71e2cac0d4a7e997e3308b0a2d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\aa\3f4907fe889e71e2cac0d4a7e997e3308b0a2d 
+.
+71aa4500a338db0630ba3668e38b21efd3d7db 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\aa\71aa4500a338db0630ba3668e38b21efd3d7db 
+.
+a3d6ee801889f2a6957c9318165493e9072ce8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\aa\a3d6ee801889f2a6957c9318165493e9072ce8 
+.
+a8a15a24a120bf70de7d68ce59f3415ce1382c 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\aa\a8a15a24a120bf70de7d68ce59f3415ce1382c 
+.
+baf5ab1542a8eaef98798255d79c746755e07d 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\aa\baf5ab1542a8eaef98798255d79c746755e07d 
+.
+c5b5fbac7f504d5f4569013ebc49b9fa35f384 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\aa\c5b5fbac7f504d5f4569013ebc49b9fa35f384 
+.
+d0620d70e16717ec338fc1d332279739e0d97c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\aa\d0620d70e16717ec338fc1d332279739e0d97c 
+.
+0d73646ec557184f233e08aee5e1314cee1f09 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ab\0d73646ec557184f233e08aee5e1314cee1f09 
+.
+0eb3f65229af3685a8b6af20e74d93a69f90fc 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ab\0eb3f65229af3685a8b6af20e74d93a69f90fc 
+.
+b0502a7f55f52d710159f7c4836b59dceef577 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ab\b0502a7f55f52d710159f7c4836b59dceef577 
+.
+edc9d7c6258d14f420688b7f055bde0563adeb 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\ac\edc9d7c6258d14f420688b7f055bde0563adeb 
+.
+0602ae2afa526a10560ed9853feffca53913f2 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ad\0602ae2afa526a10560ed9853feffca53913f2 
+.
+4a1727c835c4fc33e21c9023fe315761d8d2e7 
+%05/08/2023 09:21 PM 
+%c:\Users\adams\travlr\.git\objects\ad\4a1727c835c4fc33e21c9023fe315761d8d2e7 
+.
+6e812aa5c82a322e5d825a7dfaa8623d465775 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ad\6e812aa5c82a322e5d825a7dfaa8623d465775 
+.
+112ca3cb6ebd7ab12c3191a7d5b2d881e02f03 
+%05/09/2023 04:38 PM 
+%c:\Users\adams\travlr\.git\objects\ae\112ca3cb6ebd7ab12c3191a7d5b2d881e02f03 
+.
+8428246444b845005d415b640a577272ae8f44 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ae\8428246444b845005d415b640a577272ae8f44 
+.
+f6cc862d6cee841643b2b9067f1f641b5784da 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\ae\f6cc862d6cee841643b2b9067f1f641b5784da 
+.
+053a9524df991e38e5d9be8b8456cf04bf62f0 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\af\053a9524df991e38e5d9be8b8456cf04bf62f0 
+.
+224236d90aaa5dcced0b274969bd2d36a05b08 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\af\224236d90aaa5dcced0b274969bd2d36a05b08 
+.
+4f927e125eba376d5a4d6e8ad12382fe68f80f 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\b0\4f927e125eba376d5a4d6e8ad12382fe68f80f 
+.
+032f2ad106a83fb2507fcc36808b5b7a03fb88 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\b1\032f2ad106a83fb2507fcc36808b5b7a03fb88 
+.
+bc58a77a1b230f193486fa8c536fb71f9d274b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b1\bc58a77a1b230f193486fa8c536fb71f9d274b 
+.
+c779c447df8c44ff010508afc99a5a564ad018 
+%05/07/2023 09:25 PM 
+%c:\Users\adams\travlr\.git\objects\b1\c779c447df8c44ff010508afc99a5a564ad018 
+.
+da58697cf9b77ec91d7bda277543e5eee418b6 
+%05/08/2023 08:08 PM 
+%c:\Users\adams\travlr\.git\objects\b1\da58697cf9b77ec91d7bda277543e5eee418b6 
+.
+5a647775fdca115f66e3372631ce12b6426130 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b2\5a647775fdca115f66e3372631ce12b6426130 
+.
+fdc00bcede7ff93c380ed3b18bcca86e63512f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b2\fdc00bcede7ff93c380ed3b18bcca86e63512f 
+.
+342fec67e190679c1bd1b8cce9cdc8877b8386 
+%05/07/2023 09:36 PM 
+%c:\Users\adams\travlr\.git\objects\b3\342fec67e190679c1bd1b8cce9cdc8877b8386 
+.
+3c4f2fd29335a7a32a030c5bf161bac4fb96cf 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b3\3c4f2fd29335a7a32a030c5bf161bac4fb96cf 
+.
+ac70388777f03a4835103245b860751afe77a0 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\b3\ac70388777f03a4835103245b860751afe77a0 
+.
+e49dfbdd8fa8909a9931c6eb0c923604444363 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\b3\e49dfbdd8fa8909a9931c6eb0c923604444363 
+.
+f817b2c9f709066571ab86eb05b9481ac48ca0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b3\f817b2c9f709066571ab86eb05b9481ac48ca0 
+.
+1b704f9617389b52176dd51654670865198eb9 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b4\1b704f9617389b52176dd51654670865198eb9 
+.
+3b23643f58d8868868d9f5517f1d16503d1668 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\b4\3b23643f58d8868868d9f5517f1d16503d1668 
+.
+eb08742598ff797f613e9bf15e55ce70c9fb10 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b4\eb08742598ff797f613e9bf15e55ce70c9fb10 
+.
+fcea8c3f36d7be5fb9a8c48830331fcb97ed5d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b4\fcea8c3f36d7be5fb9a8c48830331fcb97ed5d 
+.
+326de25c268cdd14a84c32c04133cd27e773f4 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\b5\326de25c268cdd14a84c32c04133cd27e773f4 
+.
+da9dc424d9f34d9fe52151e1b398bc9dc9e292 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b5\da9dc424d9f34d9fe52151e1b398bc9dc9e292 
+.
+e3749b569fcf2138b6e6f616ed461f5e3674d8 
+%05/08/2023 07:57 PM 
+%c:\Users\adams\travlr\.git\objects\b5\e3749b569fcf2138b6e6f616ed461f5e3674d8 
+.
+0eaa10f254511ae9e389bfbd174dad42266a66 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\b6\0eaa10f254511ae9e389bfbd174dad42266a66 
+.
+1b962480074da46720f3bcc33862d6e95fe1cf 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\b6\1b962480074da46720f3bcc33862d6e95fe1cf 
+.
+cdc33d6235f53e8b1c785c5ae98fd6b375e12b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b6\cdc33d6235f53e8b1c785c5ae98fd6b375e12b 
+.
+e00421c95f925352ccf765b942a8e94c0cdc74 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\b6\e00421c95f925352ccf765b942a8e94c0cdc74 
+.
+00106e1e058708eaea83e0eb653660eca14d5b 
+%05/06/2023 03:26 PM 
+%c:\Users\adams\travlr\.git\objects\b7\00106e1e058708eaea83e0eb653660eca14d5b 
+.
+3608fbdb869f2608ac8c7915783134d16dde75 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\b7\3608fbdb869f2608ac8c7915783134d16dde75 
+.
+a27e3b661d2e99a3e535b4be9d7e34d33817d7 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\b7\a27e3b661d2e99a3e535b4be9d7e34d33817d7 
+.
+6fb0edbfac6dd3d7f4fdacec84654c2b091b7f 
+%05/08/2023 08:06 PM 
+%c:\Users\adams\travlr\.git\objects\b8\6fb0edbfac6dd3d7f4fdacec84654c2b091b7f 
+.
+db7658b16217ee38871566fced541c11e81938 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b8\db7658b16217ee38871566fced541c11e81938 
+.
+ecd7b24ebddd6b620ced23ac4115eff1ce373c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b8\ecd7b24ebddd6b620ced23ac4115eff1ce373c 
+.
+07c5c3fecdefc373a5ea44e18cdb9f48833cee 
+%05/06/2023 05:50 PM 
+%c:\Users\adams\travlr\.git\objects\b9\07c5c3fecdefc373a5ea44e18cdb9f48833cee 
+.
+df1bd204e9d4c231d170a3e9f567f2ae9c1a24 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\b9\df1bd204e9d4c231d170a3e9f567f2ae9c1a24 
+.
+f29522bfc588cfe7c9b51f4a127927ff5ca25a 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b9\f29522bfc588cfe7c9b51f4a127927ff5ca25a 
+.
+fd58aefddd70e89e61d794bf5738c860b5b936 
+%05/09/2023 04:32 PM 
+%c:\Users\adams\travlr\.git\objects\b9\fd58aefddd70e89e61d794bf5738c860b5b936 
+.
+feb7ef1da4c7f38481a648241028d027d53b13 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\b9\feb7ef1da4c7f38481a648241028d027d53b13 
+.
+3567d1df586aec736a3ccb4b4f8eee3b36b14f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ba\3567d1df586aec736a3ccb4b4f8eee3b36b14f 
+.
+5f2a297f74bb5fbbbfbb45e9f3510585ea91fd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ba\5f2a297f74bb5fbbbfbb45e9f3510585ea91fd 
+.
+ad5d3d97e64ef95cae6d0a349da1a6532bc068 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ba\ad5d3d97e64ef95cae6d0a349da1a6532bc068 
+.
+e751aaedcd70440c9e0044adb9fcf059e5d6bd 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ba\e751aaedcd70440c9e0044adb9fcf059e5d6bd 
+.
+299101774f218567377adb0020acf53081f089 
+%05/07/2023 09:26 PM 
+%c:\Users\adams\travlr\.git\objects\bb\299101774f218567377adb0020acf53081f089 
+.
+3781fd568ad560d949d52a949bc658e37c8138 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\bb\3781fd568ad560d949d52a949bc658e37c8138 
+.
+411b250faaf61f2e71f10646f91d2f5efe34f5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\bc\411b250faaf61f2e71f10646f91d2f5efe34f5 
+.
+697a28d806dd89b652c9203d763432423b2c97 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\bc\697a28d806dd89b652c9203d763432423b2c97 
+.
+88fe820c87a217d27eb010281fe39b71163835 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\bc\88fe820c87a217d27eb010281fe39b71163835 
+.
+c1914a9503791fc77015b40a7a77f3a8a37c37 
+%05/08/2023 07:50 PM 
+%c:\Users\adams\travlr\.git\objects\bc\c1914a9503791fc77015b40a7a77f3a8a37c37 
+.
+d0b593e23ae4a7408db3bcdbebedd88e33877f 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\bc\d0b593e23ae4a7408db3bcdbebedd88e33877f 
+.
+f6e9cfb6373c4e8186edc57b20d34bcf7cb36b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\bc\f6e9cfb6373c4e8186edc57b20d34bcf7cb36b 
+.
+1a5e046b4148dfc6bfd15c8aa69c81ae809a28 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\bd\1a5e046b4148dfc6bfd15c8aa69c81ae809a28 
+.
+a9a5e7c58d70e23f3f734a3b13f39f2b0a3fea 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\bd\a9a5e7c58d70e23f3f734a3b13f39f2b0a3fea 
+.
+ccf194ed0e4814d68062b16c6cda6bb829c386 
+%05/07/2023 09:30 PM 
+%c:\Users\adams\travlr\.git\objects\bd\ccf194ed0e4814d68062b16c6cda6bb829c386 
+.
+601dbad0c7735145b2fa190e67483f5e169348 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\be\601dbad0c7735145b2fa190e67483f5e169348 
+.
+fa0c99769080972260dac9e4a77630857000f2 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\be\fa0c99769080972260dac9e4a77630857000f2 
+.
+47a98960012bd1eb3f4a5c55dbd54d9384eecc 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\bf\47a98960012bd1eb3f4a5c55dbd54d9384eecc 
+.
+ed17e70e344cbac1b95aaf91ff09b344bd26e1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\bf\ed17e70e344cbac1b95aaf91ff09b344bd26e1 
+.
+fe1a10d5194af7d98df07c6b8b99279e1b5ba3 
+%05/09/2023 04:43 PM 
+%c:\Users\adams\travlr\.git\objects\bf\fe1a10d5194af7d98df07c6b8b99279e1b5ba3 
+.
+1564b94ac4ced1b4ea18208dc118ee5d853c28 
+%05/06/2023 05:31 PM 
+%c:\Users\adams\travlr\.git\objects\c0\1564b94ac4ced1b4ea18208dc118ee5d853c28 
+.
+3dc1693f2ea19337241612aa0326212e60fd9c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c0\3dc1693f2ea19337241612aa0326212e60fd9c 
+.
+48531f96f50ad536ccdd58c25b96da8a40cd4f 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\objects\c0\48531f96f50ad536ccdd58c25b96da8a40cd4f 
+.
+6ebd3297014ad2b6f269db67ca08527148c705 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\c0\6ebd3297014ad2b6f269db67ca08527148c705 
+.
+7171d702bc12760d9a677c69c0eafeb2878090 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\c0\7171d702bc12760d9a677c69c0eafeb2878090 
+.
+9021fd0c3d71659957bdb0b860c58435585edc 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c0\9021fd0c3d71659957bdb0b860c58435585edc 
+.
+db5561ed9ef4a27d046ebc96a4ca3769007c1f 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c0\db5561ed9ef4a27d046ebc96a4ca3769007c1f 
+.
+fd5268217a5c00541f05798dfb048cb93832ee 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c0\fd5268217a5c00541f05798dfb048cb93832ee 
+.
+0a3344411197a716883caad07f0319f5d69b89 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c1\0a3344411197a716883caad07f0319f5d69b89 
+.
+460a7c0b9fa3c6136d49507720c337a869b79a 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\c1\460a7c0b9fa3c6136d49507720c337a869b79a 
+.
+b9b599a91ee22b3f31bfe15b83150dfebd082a 
+%05/07/2023 09:26 PM 
+%c:\Users\adams\travlr\.git\objects\c1\b9b599a91ee22b3f31bfe15b83150dfebd082a 
+.
+e78a75e6b52b7434e7e8aa0d64d8abd593763b 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\c1\e78a75e6b52b7434e7e8aa0d64d8abd593763b 
+.
+fa20f39622daf457e842da621629e90253fc03 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c1\fa20f39622daf457e842da621629e90253fc03 
+.
+108c50f1693c2c96d3ddfb19ed3fc942ad012b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c2\108c50f1693c2c96d3ddfb19ed3fc942ad012b 
+.
+1c20f67167a836e9130176081d76fc58ee8927 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\c2\1c20f67167a836e9130176081d76fc58ee8927 
+.
+952c83a8fa615bd59fa928a06ab79509a6962d 
+%05/05/2023 08:53 PM 
+%c:\Users\adams\travlr\.git\objects\c2\952c83a8fa615bd59fa928a06ab79509a6962d 
+.
+0c34af00b5ac4a725e8ae876693b445293ac73 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\c3\0c34af00b5ac4a725e8ae876693b445293ac73 
+.
+3fb7d3b78aff73835571dd91e30a139c7f42b5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c3\3fb7d3b78aff73835571dd91e30a139c7f42b5 
+.
+dd0a78e065998dbb7119ffcbde7093aa7a0767 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\c4\dd0a78e065998dbb7119ffcbde7093aa7a0767 
+.
+e0b958530ade353429d824d19427dc1fc25ce2 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\c4\e0b958530ade353429d824d19427dc1fc25ce2 
+.
+f8fc781a6b435b6aae20633f2b81eb73a0dbf2 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c4\f8fc781a6b435b6aae20633f2b81eb73a0dbf2 
+.
+13145fa3cfe2eb18233dc69a29a2b1743ec568 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c5\13145fa3cfe2eb18233dc69a29a2b1743ec568 
+.
+acb81e9b940a4ab287ae906f2abc16841fef75 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\c5\acb81e9b940a4ab287ae906f2abc16841fef75 
+.
+1a58ccc3002d1fa2d8854d6783aecf86dc0565 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c6\1a58ccc3002d1fa2d8854d6783aecf86dc0565 
+.
+704b370488cb666fb44e3ec371b59f76bd79b3 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c7\704b370488cb666fb44e3ec371b59f76bd79b3 
+.
+a1341cae512513a62aac327f08e5b47be44340 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c7\a1341cae512513a62aac327f08e5b47be44340 
+.
+c72dad8b59de41f3c932da18a5e5577ba76cb8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c7\c72dad8b59de41f3c932da18a5e5577ba76cb8 
+.
+955669782b4a44a8d925905f7480448af7fc54 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\c8\955669782b4a44a8d925905f7480448af7fc54 
+.
+0cf77699d83e8ea3da5dcb28079b3072383d74 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\c9\0cf77699d83e8ea3da5dcb28079b3072383d74 
+.
+73b0fb1f0ec01771ee7777fd914038d6da6329 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\c9\73b0fb1f0ec01771ee7777fd914038d6da6329 
+.
+a1e15e6c2fe73a0ebf35040fef031b46437ba6 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c9\a1e15e6c2fe73a0ebf35040fef031b46437ba6 
+.
+bc94521d8c7af7a6eabfef815fce9496938e66 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c9\bc94521d8c7af7a6eabfef815fce9496938e66 
+.
+d3744a951cf84eeb44f56b619922db0ff0e0ae 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\c9\d3744a951cf84eeb44f56b619922db0ff0e0ae 
+.
+38a0d5209226ca4ab2ca8f16a18a2a2a57477e 
+%05/06/2023 05:52 PM 
+%c:\Users\adams\travlr\.git\objects\ca\38a0d5209226ca4ab2ca8f16a18a2a2a57477e 
+.
+6b28f988610be1f0650c16b3eb5ee2ef9ab9e5 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\objects\ca\6b28f988610be1f0650c16b3eb5ee2ef9ab9e5 
+.
+a8a5c7b304a2cdf9e44804e58807c68d97b595 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\ca\a8a5c7b304a2cdf9e44804e58807c68d97b595 
+.
+b40dbee732c4a432f4bd60ef9a14e287f51809 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ca\b40dbee732c4a432f4bd60ef9a14e287f51809 
+.
+bef32b14922947b870637bf9ee03da25a302fc 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ca\bef32b14922947b870637bf9ee03da25a302fc 
+.
+f20b625bbfd4373ece8a4c0cb4e7f18ad7a0e6 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ca\f20b625bbfd4373ece8a4c0cb4e7f18ad7a0e6 
+.
+41c40ac5993c952b7e5215b7150c2686e1646e 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\cb\41c40ac5993c952b7e5215b7150c2686e1646e 
+.
+4a27d3d5dc333eefc5b43eb0804f4fa9e3e5f8 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\cb\4a27d3d5dc333eefc5b43eb0804f4fa9e3e5f8 
+.
+5f2d9ba04dc2a3621ceb40a74af5667b579c46 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\cb\5f2d9ba04dc2a3621ceb40a74af5667b579c46 
+.
+a86e2df560b54f2b3a8a15830609b8ebbab5f0 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\cb\a86e2df560b54f2b3a8a15830609b8ebbab5f0 
+.
+1b79ff086841427171935ca30557b874564340 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\cc\1b79ff086841427171935ca30557b874564340 
+.
+370ae9da0c7e80468ac6daaca66351c8f0bab6 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\cc\370ae9da0c7e80468ac6daaca66351c8f0bab6 
+.
+898075ba48e6d570ca6f98172b185e9d6918b4 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\cd\898075ba48e6d570ca6f98172b185e9d6918b4 
+.
+8ffbd957d3f487c91848bbe4fc4e74779b7086 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\cd\8ffbd957d3f487c91848bbe4fc4e74779b7086 
+.
+e27ca41eda49085611f3a762f85767eb2b5cd0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\cd\e27ca41eda49085611f3a762f85767eb2b5cd0 
+.
+e397cf2e7f0093e9b30870186a2d3677432d5e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\cd\e397cf2e7f0093e9b30870186a2d3677432d5e 
+.
+080e0100c95b817b1ffa2222109490e3c7474d 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\ce\080e0100c95b817b1ffa2222109490e3c7474d 
+.
+1fe74b0e87138ed31046023273c820fa177332 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ce\1fe74b0e87138ed31046023273c820fa177332 
+.
+476c0029755d47b8e85b3659c31027fed377d6 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ce\476c0029755d47b8e85b3659c31027fed377d6 
+.
+194a4c8272c9043370f47f23b5c689d0e40590 
+%05/07/2023 09:26 PM 
+%c:\Users\adams\travlr\.git\objects\cf\194a4c8272c9043370f47f23b5c689d0e40590 
+.
+f4db9e656b5606869baedf996929d4cb0338db 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\cf\f4db9e656b5606869baedf996929d4cb0338db 
+.
+8eb5ed1b8e3e514d6d4d23de6198c90a426b19 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\d0\8eb5ed1b8e3e514d6d4d23de6198c90a426b19 
+.
+95963a111fe894d8f4fc1c5563d289684493c0 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\objects\d0\95963a111fe894d8f4fc1c5563d289684493c0 
+.
+78b28460f68a605c8291cfa233e2d50e652b90 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\d2\78b28460f68a605c8291cfa233e2d50e652b90 
+.
+cc86eb230313af9bbdbd3faed7f8e7c7247788 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\d2\cc86eb230313af9bbdbd3faed7f8e7c7247788 
+.
+10405a6817a4b84bb6117fb709e2c6ea11ef55 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\d3\10405a6817a4b84bb6117fb709e2c6ea11ef55 
+.
+40ade913f85a7aff2575c41ec72cb8bd365930 
+%05/06/2023 05:52 PM 
+%c:\Users\adams\travlr\.git\objects\d4\40ade913f85a7aff2575c41ec72cb8bd365930 
+.
+9e93cfec88bef4065b43d047b7a2a7969d7c36 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\d4\9e93cfec88bef4065b43d047b7a2a7969d7c36 
+.
+ccc0855e58b1f548b84d184ea987a2ac667b11 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\d4\ccc0855e58b1f548b84d184ea987a2ac667b11 
+.
+57c37176e42b90c990f3b7d709bb72345e7331 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\d5\57c37176e42b90c990f3b7d709bb72345e7331 
+.
+702c4e2a5752b0b3bd0eaef6358f5a44bb7992 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\d5\702c4e2a5752b0b3bd0eaef6358f5a44bb7992 
+.
+bd96f45ddeba03465855c9ec1d185eb06af65a 
+%05/09/2023 04:18 PM 
+%c:\Users\adams\travlr\.git\objects\d5\bd96f45ddeba03465855c9ec1d185eb06af65a 
+.
+d58b03338ce1cb75888e263076eaa6d32fad24 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\d5\d58b03338ce1cb75888e263076eaa6d32fad24 
+.
+425cd5a5e64ba5d949fa3a249445a8b24602c8 
+%05/09/2023 02:51 PM 
+%c:\Users\adams\travlr\.git\objects\d6\425cd5a5e64ba5d949fa3a249445a8b24602c8 
+.
+54cda119e48dfc71c1e684f1b78084ca254e1b 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\objects\d6\54cda119e48dfc71c1e684f1b78084ca254e1b 
+.
+9a998854b07d4ce0f7739caa700fc690437510 
+%05/09/2023 04:18 PM 
+%c:\Users\adams\travlr\.git\objects\d6\9a998854b07d4ce0f7739caa700fc690437510 
+.
+b07bb546f643e626036de1037e0c259e6d9256 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\d6\b07bb546f643e626036de1037e0c259e6d9256 
+.
+58d3c8f58a60bf27ef377ad77639bf10ce7854 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\d7\58d3c8f58a60bf27ef377ad77639bf10ce7854 
+.
+7629a5210b951af9b2fe56ed6f05e745b8e50e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\d7\7629a5210b951af9b2fe56ed6f05e745b8e50e 
+.
+ab4f5c3c6bbafe1498f7a73bd7e2ea4127f3e2 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\d7\ab4f5c3c6bbafe1498f7a73bd7e2ea4127f3e2 
+.
+04d51b020b7801d758f2f0918c8a733e140509 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\d8\04d51b020b7801d758f2f0918c8a733e140509 
+.
+57603cf546bd19fc1225a0d0910de0e3159609 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\d9\57603cf546bd19fc1225a0d0910de0e3159609 
+.
+5ef17f40b06d294dbc7dc7e0c20ce2e7fd402c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\d9\5ef17f40b06d294dbc7dc7e0c20ce2e7fd402c 
+.
+d5e8a962bd91094db42fe3f29fc734f490371b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\d9\d5e8a962bd91094db42fe3f29fc734f490371b 
+.
+d7aaa169520d6d272977eaafba66e9e6c3d895 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\d9\d7aaa169520d6d272977eaafba66e9e6c3d895 
+.
+e138148b005942e51f889b1c6d7299d9866add 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\d9\e138148b005942e51f889b1c6d7299d9866add 
+.
+4adc16e95c8730cb34a570973ffd6e0e289b6d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\da\4adc16e95c8730cb34a570973ffd6e0e289b6d 
+.
+4b7839762bb0f7d18a5de8382e8cc240c5423f 
+%05/09/2023 02:51 PM 
+%c:\Users\adams\travlr\.git\objects\da\4b7839762bb0f7d18a5de8382e8cc240c5423f 
+.
+4ed73cde3e5eaea221323ee8d324f18652a1e1 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\da\4ed73cde3e5eaea221323ee8d324f18652a1e1 
+.
+6671e5c41d14365600f4909c4fad8d1217de41 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\da\6671e5c41d14365600f4909c4fad8d1217de41 
+.
+d54e7fef0caa7bd32031d9120927ba93135b83 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\da\d54e7fef0caa7bd32031d9120927ba93135b83 
+.
+1c50c62f6d0c5ecb578cf12ff01c6df55e826d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\db\1c50c62f6d0c5ecb578cf12ff01c6df55e826d 
+.
+682acd5e712f6706e022943e5407fe8a6a9d44 
+%05/07/2023 09:25 PM 
+%c:\Users\adams\travlr\.git\objects\db\682acd5e712f6706e022943e5407fe8a6a9d44 
+.
+cc75fbb404772fe9cc597518ac3b09280ff487 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\db\cc75fbb404772fe9cc597518ac3b09280ff487 
+.
+26df7d50b573ddf76807d3a3f5d0697d4f6acf 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\dc\26df7d50b573ddf76807d3a3f5d0697d4f6acf 
+.
+3a131d4a1f48fc69c08305a027f95e6f8ce667 
+%05/08/2023 09:15 PM 
+%c:\Users\adams\travlr\.git\objects\dc\3a131d4a1f48fc69c08305a027f95e6f8ce667 
+.
+f90dfad586748c391108f1f4732347f132b1c1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\dc\f90dfad586748c391108f1f4732347f132b1c1 
+.
+58ec88f3ce680c6039ee976d1d78c924bd8812 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\dd\58ec88f3ce680c6039ee976d1d78c924bd8812 
+.
+6d479ada727ba79df63b3c98514b8635d9fa6e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\dd\6d479ada727ba79df63b3c98514b8635d9fa6e 
+.
+7733630eb224b246854a20934f792051926e8f 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\de\7733630eb224b246854a20934f792051926e8f 
+.
+219014e41e69ebb27bf116a4a10e379ad87f92 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\df\219014e41e69ebb27bf116a4a10e379ad87f92 
+.
+fc6124809c85cbf78fb30fbd9691c926648071 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\df\fc6124809c85cbf78fb30fbd9691c926648071 
+.
+1e3f38b7366dd89cc9bc178861cd15c98e30e8 
+%05/09/2023 04:32 PM 
+%c:\Users\adams\travlr\.git\objects\e0\1e3f38b7366dd89cc9bc178861cd15c98e30e8 
+.
+87806cdf5fb76f5a2fb528023638ff28a21e17 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e0\87806cdf5fb76f5a2fb528023638ff28a21e17 
+.
+94641cdd429f6d6d85695695a6de23b71768c3 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\e0\94641cdd429f6d6d85695695a6de23b71768c3 
+.
+17b1731edc9f7719397ae577751fc991f49ec8 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e2\17b1731edc9f7719397ae577751fc991f49ec8 
+.
+fd84f3aba122bcf174e211062f7f151fc53129 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e2\fd84f3aba122bcf174e211062f7f151fc53129 
+.
+1192e5aa616afb936bb906f3bf625050593d58 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e3\1192e5aa616afb936bb906f3bf625050593d58 
+.
+8298359db8cb151d35e49a1192c186644d5ba3 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e3\8298359db8cb151d35e49a1192c186644d5ba3 
+.
+c0b0957c7962a55ef77838056339c02ee451bc 
+%05/09/2023 04:32 PM 
+%c:\Users\adams\travlr\.git\objects\e3\c0b0957c7962a55ef77838056339c02ee451bc 
+.
+fa20a0f573d98c7d38d7a23dc0aa3fe5160cc3 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e3\fa20a0f573d98c7d38d7a23dc0aa3fe5160cc3 
+.
+073d5667c718b229e9943aebebcc2c181245d7 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e4\073d5667c718b229e9943aebebcc2c181245d7 
+.
+3dd0894a37a4b8b47fae3741e11e0ecf452bc5 
+%05/05/2023 09:03 PM 
+%c:\Users\adams\travlr\.git\objects\e4\3dd0894a37a4b8b47fae3741e11e0ecf452bc5 
+.
+651a336713a0961ac1e67075456c1cfbafc359 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\e4\651a336713a0961ac1e67075456c1cfbafc359 
+.
+731e73016e6ad73cf1d8433a7b3043896517ed 
+%05/09/2023 02:51 PM 
+%c:\Users\adams\travlr\.git\objects\e4\731e73016e6ad73cf1d8433a7b3043896517ed 
+.
+891eb07011e5923842dff53a0fbab065c55b7e 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\e4\891eb07011e5923842dff53a0fbab065c55b7e 
+.
+fd51cbe0273cc183494e3bce5158e570180d72 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e4\fd51cbe0273cc183494e3bce5158e570180d72 
+.
+311e8327a2709fbae303767635527f434997df 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e5\311e8327a2709fbae303767635527f434997df 
+.
+8d47e442ce127bfe5703b6b64d14c3e4511223 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e5\8d47e442ce127bfe5703b6b64d14c3e4511223 
+.
+8d4a9c3725d92b9a68a9adf4cdb1a40c9b375a 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\e5\8d4a9c3725d92b9a68a9adf4cdb1a40c9b375a 
+.
+9986795e329e1ce3d5dfcab9650a04a32761c0 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\e5\9986795e329e1ce3d5dfcab9650a04a32761c0 
+.
+c80351397cce4cbebd740bacbc00949f478286 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e5\c80351397cce4cbebd740bacbc00949f478286 
+.
+17db333dbf4ac866714997c003ae1d42a3e3a7 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\e6\17db333dbf4ac866714997c003ae1d42a3e3a7 
+.
+8eb168162cf684eb689d36f0f15a3faf4fed47 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\e7\8eb168162cf684eb689d36f0f15a3faf4fed47 
+.
+4eea868738efdb5b9446b497cb43b927e4873d 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\e9\4eea868738efdb5b9446b497cb43b927e4873d 
+.
+ef03da2541760b1e1fe23f12db073d7e5e6d25 
+%05/08/2023 08:06 PM 
+%c:\Users\adams\travlr\.git\objects\e9\ef03da2541760b1e1fe23f12db073d7e5e6d25 
+.
+134260e47f7225d04338a59a31ef965e8fb481 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\ea\134260e47f7225d04338a59a31ef965e8fb481 
+.
+2a1f720cae5ff95837c1885f5a3ec5824e756d 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\ea\2a1f720cae5ff95837c1885f5a3ec5824e756d 
+.
+eec33af4d535a96e8700dc609a8b65d007b23b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ea\eec33af4d535a96e8700dc609a8b65d007b23b 
+.
+1cf1a90cf06b4018ba674b0d4a777248895b76 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\eb\1cf1a90cf06b4018ba674b0d4a777248895b76 
+.
+43122ae54a134d9bc9f33671c24e3a2a6d5f13 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\eb\43122ae54a134d9bc9f33671c24e3a2a6d5f13 
+.
+4a68776b97df6f1027d3234c0f40e93695cfd4 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\eb\4a68776b97df6f1027d3234c0f40e93695cfd4 
+.
+90a846f75ac3d636ffca7d8fc04984731e07b9 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\eb\90a846f75ac3d636ffca7d8fc04984731e07b9 
+.
+9e37b0b24cc920fb07540c202b7a5457bb7571 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\eb\9e37b0b24cc920fb07540c202b7a5457bb7571 
+.
+9ea3dd506fd401e947f53600182d9a56ee9d0f 
+%05/08/2023 08:03 PM 
+%c:\Users\adams\travlr\.git\objects\eb\9ea3dd506fd401e947f53600182d9a56ee9d0f 
+.
+bd819076c47198bf8fd6935096c86ce62f6f1c 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\eb\bd819076c47198bf8fd6935096c86ce62f6f1c 
+.
+40e070e428db6c8fabb78b4c7203666f6c8bb2 
+%05/09/2023 03:00 PM 
+%c:\Users\adams\travlr\.git\objects\ec\40e070e428db6c8fabb78b4c7203666f6c8bb2 
+.
+616f870906ee3395c53fd95d00069f75589800 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ec\616f870906ee3395c53fd95d00069f75589800 
+.
+1b7cf27e97e136918e87ad7bb33baf169f0171 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ed\1b7cf27e97e136918e87ad7bb33baf169f0171 
+.
+27571f47c0a9a05ee794d12366fee18234c434 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ed\27571f47c0a9a05ee794d12366fee18234c434 
+.
+5d47612bbaa660b4a5bfb747e63f1e192a87a8 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ed\5d47612bbaa660b4a5bfb747e63f1e192a87a8 
+.
+af5fdcf52ce17be294783ca4032f88404f718c 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\ed\af5fdcf52ce17be294783ca4032f88404f718c 
+.
+b28cd96b61b3f1910b6040fdebc9df68205e30 
+%05/09/2023 04:18 PM 
+%c:\Users\adams\travlr\.git\objects\ed\b28cd96b61b3f1910b6040fdebc9df68205e30 
+.
+e8a09eab91102681dd092ef7a7b8287517c3d3 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ed\e8a09eab91102681dd092ef7a7b8287517c3d3 
+.
+0e9898d18da88f6557f3fe87ca292e4aa3f05e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ee\0e9898d18da88f6557f3fe87ca292e4aa3f05e 
+.
+27ba4b4412b0e4a05af5e3d8a005bc6681fdf3 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ee\27ba4b4412b0e4a05af5e3d8a005bc6681fdf3 
+.
+5c9d8336b76b3bb5658d0888bdec86eb7b0990 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ee\5c9d8336b76b3bb5658d0888bdec86eb7b0990 
+.
+8ade57a125d560aef7a69b2953a12598a1f193 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ee\8ade57a125d560aef7a69b2953a12598a1f193 
+.
+e7bc96cea9e4e84021e38833358c654903133d 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ee\e7bc96cea9e4e84021e38833358c654903133d 
+.
+f0ae44ceb4e4afbaae57a95a508e690c7a3653 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ee\f0ae44ceb4e4afbaae57a95a508e690c7a3653 
+.
+f27686201f6c468e91c1e5940635e212c97214 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ee\f27686201f6c468e91c1e5940635e212c97214 
+.
+01b9b8cbf884ae56a509ea65c66215545973f1 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ef\01b9b8cbf884ae56a509ea65c66215545973f1 
+.
+10713b2767f5b27e3282d227c0aaebdac80126 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ef\10713b2767f5b27e3282d227c0aaebdac80126 
+.
+6a8a5e2ce1fe7aad1ab71c761cd975f6cc6a80 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ef\6a8a5e2ce1fe7aad1ab71c761cd975f6cc6a80 
+.
+9321063d1f2fc4b4d28bb4f5b347a2b69125d4 
+%05/07/2023 09:45 PM 
+%c:\Users\adams\travlr\.git\objects\ef\9321063d1f2fc4b4d28bb4f5b347a2b69125d4 
+.
+cf3ad2904a6f2e802759d43bedcab56d0c8523 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ef\cf3ad2904a6f2e802759d43bedcab56d0c8523 
+.
+0ea95f6398271b43bb258bdcc262a30eeab703 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f0\0ea95f6398271b43bb258bdcc262a30eeab703 
+.
+20f3940e129c361dc89226efaf8775a4af8752 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f0\20f3940e129c361dc89226efaf8775a4af8752 
+.
+19a31dacac09672a490b81bfd5935e9d2685ff 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\f1\19a31dacac09672a490b81bfd5935e9d2685ff 
+.
+fdcb3795d1857b659d76daa31debed5efc05b7 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\f1\fdcb3795d1857b659d76daa31debed5efc05b7 
+.
+2718a037b4baa4757ffc434a08b65cf93e2961 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f2\2718a037b4baa4757ffc434a08b65cf93e2961 
+.
+5643dbfac0d4ac4a51f5015a8afb9d62eb907b 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f2\5643dbfac0d4ac4a51f5015a8afb9d62eb907b 
+.
+c92ccfebac7c8b3e8b932fee80913b558d2aa1 
+%05/06/2023 05:31 PM 
+%c:\Users\adams\travlr\.git\objects\f2\c92ccfebac7c8b3e8b932fee80913b558d2aa1 
+.
+de61fb3f20c5e3b78fda14cd93c42ac1cda54e 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\f2\de61fb3f20c5e3b78fda14cd93c42ac1cda54e 
+.
+18a47c18f46b24a1c0a08275218b90ea210076 
+%05/08/2023 08:06 PM 
+%c:\Users\adams\travlr\.git\objects\f3\18a47c18f46b24a1c0a08275218b90ea210076 
+.
+a4dfe44a8fdbdbaf8ba83d1eaa8ca917d3e281 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f3\a4dfe44a8fdbdbaf8ba83d1eaa8ca917d3e281 
+.
+bc8db15d643e7c2811aecbba33a77a1e096202 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f3\bc8db15d643e7c2811aecbba33a77a1e096202 
+.
+3b0cac858d987e473d1dd28430498f98a0368c 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f4\3b0cac858d987e473d1dd28430498f98a0368c 
+.
+1c16e61dd0deb4dfd026e9312ca42fc6893193 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\f5\1c16e61dd0deb4dfd026e9312ca42fc6893193 
+.
+114d350537d2a29b08b91f28d29226e6c36eba 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f6\114d350537d2a29b08b91f28d29226e6c36eba 
+.
+df80a4a403f460ed262c0a7118b5ce4c41aae5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f6\df80a4a403f460ed262c0a7118b5ce4c41aae5 
+.
+b0efd6b2776e25802538290cafc19eeb4e577e 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f7\b0efd6b2776e25802538290cafc19eeb4e577e 
+.
+869e9c9883f21be02f44b7b317f46023cac9a0 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f8\869e9c9883f21be02f44b7b317f46023cac9a0 
+.
+cb6183a32d7d8e9a382a0a25762bb6c1a79170 
+%05/09/2023 03:22 PM 
+%c:\Users\adams\travlr\.git\objects\f8\cb6183a32d7d8e9a382a0a25762bb6c1a79170 
+.
+75c2199b5f6952e4c88261e0d04f63406e1634 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\f9\75c2199b5f6952e4c88261e0d04f63406e1634 
+.
+774e3a035e7515e02587cce75183a12e16e4da 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\f9\774e3a035e7515e02587cce75183a12e16e4da 
+.
+d7154eb498ed36c14c997bc7ad247bb492c9fd 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\fa\d7154eb498ed36c14c997bc7ad247bb492c9fd 
+.
+dc372f5d58d252eb749d4ffa0c1ad9f8c1557a 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\fa\dc372f5d58d252eb749d4ffa0c1ad9f8c1557a 
+.
+d5c81cae66fa6401f871ac7fb02e96fdb9c213 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\fb\d5c81cae66fa6401f871ac7fb02e96fdb9c213 
+.
+1c4b4a6610c19eecc2d49787e3b4f9764c8da9 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\objects\fc\1c4b4a6610c19eecc2d49787e3b4f9764c8da9 
+.
+9da63c06c1619a2bc8fb14134b6f09c0c29583 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\fc\9da63c06c1619a2bc8fb14134b6f09c0c29583 
+.
+1ecc592436078c8482ea5c17970e28cd256249 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\fd\1ecc592436078c8482ea5c17970e28cd256249 
+.
+bd1b8b40fcfee4c96ea3407bb66bc645f74080 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\fd\bd1b8b40fcfee4c96ea3407bb66bc645f74080 
+.
+4ee9276bd91894d1750e53c079204a22290aab 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\objects\fe\4ee9276bd91894d1750e53c079204a22290aab 
+.
+65185b45302c661e350b4d268199b9debf337d 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\fe\65185b45302c661e350b4d268199b9debf337d 
+.
+a4beb193f3fc95410de89f811639a18a014747 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\fe\a4beb193f3fc95410de89f811639a18a014747 
+.
+d2a467cdfcac73cde8f98dc2d1d0c976117fb4 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\fe\d2a467cdfcac73cde8f98dc2d1d0c976117fb4 
+.
+ec79ed1ab96de41cc8131b1ae66b49278c3756 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\fe\ec79ed1ab96de41cc8131b1ae66b49278c3756 
+.
+b8d51243288d106cf8ee85775fda68c1bb939b 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\ff\b8d51243288d106cf8ee85775fda68c1bb939b 
+.
+eaf7d2937ce2747fc611f0a17403517b0c6ea5 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\objects\ff\eaf7d2937ce2747fc611f0a17403517b0c6ea5 
+.
+pack-0827581a5f8cbcd6601f053f9fe5faaf6b0ad2b2 
+%05/05/2023 08:50 PM 
+%c:\Users\adams\travlr\.git\objects\pack\pack-0827581a5f8cbcd6601f053f9fe5faaf6b0ad2b2.idx 
+.
+pack-0827581a5f8cbcd6601f053f9fe5faaf6b0ad2b2 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\objects\pack\pack-0827581a5f8cbcd6601f053f9fe5faaf6b0ad2b2.pack 
+.
+main 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\refs\heads\main 
+.
+module1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\refs\heads\module1 
+.
+module2 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\refs\heads\module2 
+.
+module3 
+%05/09/2023 04:15 PM 
+%c:\Users\adams\travlr\.git\refs\heads\module3 
+.
+module4 
+%05/09/2023 04:18 PM 
+%c:\Users\adams\travlr\.git\refs\heads\module4 
+.
+module5 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\refs\heads\module5 
+.
+module6 
+%05/09/2023 04:36 PM 
+%c:\Users\adams\travlr\.git\refs\heads\module6 
+.
+module7 
+%05/09/2023 04:42 PM 
+%c:\Users\adams\travlr\.git\refs\heads\module7 
+.
+HEAD 
+%05/09/2023 05:18 PM 
+%c:\Users\adams\travlr\.git\refs\remotes\origin\HEAD 
+.
+main 
+%05/09/2023 03:10 PM 
+%c:\Users\adams\travlr\.git\refs\remotes\origin\main 
+.
+module1 
+%05/09/2023 03:28 PM 
+%c:\Users\adams\travlr\.git\refs\remotes\origin\module1 
+.
+module2 
+%05/09/2023 03:11 PM 
+%c:\Users\adams\travlr\.git\refs\remotes\origin\module2 
+.
+module3 
+%05/09/2023 04:16 PM 
+%c:\Users\adams\travlr\.git\refs\remotes\origin\module3 
+.
+module4 
+%05/09/2023 04:19 PM 
+%c:\Users\adams\travlr\.git\refs\remotes\origin\module4 
+.
+module5 
+%05/09/2023 04:23 PM 
+%c:\Users\adams\travlr\.git\refs\remotes\origin\module5 
+.
+module6 
+%05/09/2023 04:37 PM 
+%c:\Users\adams\travlr\.git\refs\remotes\origin\module6 
+.
+module7 
+%05/09/2023 04:43 PM 
+%c:\Users\adams\travlr\.git\refs\remotes\origin\module7 
+.
+about 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\controllers\about.js 
+.
+contact 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\controllers\contact.js 
+.
+main 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\controllers\main.js 
+.
+meals 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\controllers\meals.js 
+.
+news 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\controllers\news.js 
+.
+rooms 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\controllers\rooms.js 
+.
+travel 
+%05/09/2023 04:45 PM 
+%c:\Users\adams\travlr\app_server\controllers\travel.js 
+.
+about 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\routes\about.js 
+.
+contact 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\routes\contact.js 
+.
+index 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\routes\index.js 
+.
+meals 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\routes\meals.js 
+.
+news 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\routes\news.js 
+.
+rooms 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\routes\rooms.js 
+.
+travel 
+%05/09/2023 04:45 PM 
+%c:\Users\adams\travlr\app_server\routes\travel.js 
+.
+users 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\routes\users.js 
+.
+about 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\views\about.hbs 
+.
+contact 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\views\contact.hbs 
+.
+error 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\views\error.hbs 
+.
+index 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\views\index.hbs 
+.
+layout 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\views\layout.hbs 
+.
+meals 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\views\meals.hbs 
+.
+news 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\views\news.hbs 
+.
+rooms 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\views\rooms.hbs 
+.
+travel 
+%05/09/2023 04:45 PM 
+%c:\Users\adams\travlr\app_server\views\travel.hbs 
+.
+footer 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\views\partials\footer.hbs 
+.
+header 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\app_server\views\partials\header.hbs 
+.
+www 
+%05/09/2023 05:11 PM 
+%c:\Users\adams\travlr\bin\www 
+.
+trips 
+%05/09/2023 04:46 PM 
+%c:\Users\adams\travlr\data\trips.json 
+.
+about 
+%05/09/2023 05:11 PM 
+%c:\Users\adams\travlr\public\about.html 
+.
+contact 
+%05/09/2023 05:11 PM 
+%c:\Users\adams\travlr\public\contact.html 
+.
+index 
+%05/09/2023 05:11 PM 
+%c:\Users\adams\travlr\public\index.html 
+.
+meals 
+%05/09/2023 05:11 PM 
+%c:\Users\adams\travlr\public\meals.html 
+.
+news 
+%05/09/2023 05:07 PM 
+%c:\Users\adams\travlr\public\news.html 
+.
+rooms 
+%05/09/2023 05:07 PM 
+%c:\Users\adams\travlr\public\rooms.html 
+.
+travel 
+%05/09/2023 05:07 PM 
+%c:\Users\adams\travlr\public\travel.html 
+.
+style 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\css\style.css 
+.
+bg-adbox 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\bg-adbox.png 
+.
+bg-body 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\bg-body.jpg 
+.
+bg-box 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\bg-box.png 
+.
+bg-foodDetail 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\bg-foodDetail.png 
+.
+bg-foodInfos 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\bg-foodInfos.png 
+.
+bg-menu 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\bg-menu.png 
+.
+bg-navigation 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\bg-navigation.png 
+.
+bg-pattern 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\bg-pattern.jpg 
+.
+btn-send 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\btn-send.png 
+.
+buffet 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\buffet.jpg 
+.
+content-box 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\content-box.png 
+.
+deluxe 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\deluxe.jpg 
+.
+desserts 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\desserts.jpg 
+.
+dive-site 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\dive-site.png 
+.
+first-class 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\first-class.jpg 
+.
+food 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\food.png 
+.
+icons 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\icons.png 
+.
+kayak 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\kayak.jpg 
+.
+logo 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\logo.png 
+.
+reef1 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\reef1.jpg 
+.
+reef2 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\reef2.jpg 
+.
+reef3 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\reef3.jpg 
+.
+rooms 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\rooms.png 
+.
+sea-sound 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\sea-sound.jpg 
+.
+seafoods 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\seafoods.jpg 
+.
+searchbar 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\searchbar.png 
+.
+suite 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\images\suite.jpg 
+.
+style 
+%05/09/2023 10:34 PM 
+%c:\Users\adams\travlr\public\stylesheets\style.css 
+.
