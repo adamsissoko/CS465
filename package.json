@@ -2,7 +2,7 @@
   "name": "cs-465-travlr",
   "version": "1.0.0",
   "description": "Travlr Getaways",
-  "author": "artllj.com",
+  "author": "Adam Sissoko",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
