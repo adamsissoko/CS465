@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('force:server');
+var debug = require('debug')('cs-465-travlr:server');
 var http = require('http');
 
 /**
