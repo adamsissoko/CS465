@@ -37,7 +37,7 @@
   <h3 align="center">CS 465: Full Stack Development I</h3>
 
   <p align="center">
-    Lawrence Artl III
+    Adam Sissoko
     <br />
     <a href="https://github.com/adamsissoko/SNHU_CS_370_Emerging_Trends_in_CS/tree/main/writeups"><strong>Explore the docs »</strong></a>
     <br />
@@ -288,20 +288,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-## License
-
-Currently there is no license for this application, it is free to use by anyone who needs it. Please consider letting me know if it was helpful at all, or any additions you can propose (see the <a href="#contributing">contributing</a> section)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
   
