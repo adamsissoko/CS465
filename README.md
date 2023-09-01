@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I">
+  <a href="https://github.com/adamsissoko/CS465">
     <img src="images/logo.png" alt="Logo" width="210">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     Lawrence Artl III
     <br />
-    <a href="https://github.com/lorenarms/SNHU_CS_370_Emerging_Trends_in_CS/tree/main/writeups"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adamsissoko/SNHU_CS_370_Emerging_Trends_in_CS/tree/main/writeups"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/blob/main/images/travlr_login.gif">View Demo</a>
+    <a href="https://github.com/adamsissoko/CS465/blob/main/images/travlr_login.gif">View Demo</a>
     ·
-    <a href="https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/issues">Report Bug</a>
+    <a href="https://github.com/adamsissoko/CS465/issues">Report Bug</a>
     ·
-    <a href="https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/issues">Request Feature</a>
+    <a href="https://github.com/adamsissoko/CS465/issues">Request Feature</a>
   </p>
 </div>
 
@@ -109,7 +109,7 @@ This course covers the following competencies, which represent the knowledge and
 ## About The Project
 <div align = "center">
   <h3>"Travlr" Web Application</h3>
-  <img src="https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/blob/main/images/user_facing_page.png" alt="Main" width=auto><p></p>
+  <img src="https://github.com/adamsissoko/CS465/blob/main/images/user_facing_page.png" alt="Main" width=auto><p></p>
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 </div>
 
@@ -172,7 +172,7 @@ To install and run the application, follow the instructions below.
 
 1. Clone the repo
    ```sh
-   gh repo clone lorenarms/SNHU_CS_465_Full-Stack-Development-I
+   gh repo clone adamsissoko/CS465
    ```
 2. Open the folder in VS Code
 3. Navigate to the "app_admin" folder
@@ -254,7 +254,7 @@ To install and run the application, follow the instructions below.
 </table>
 
 
-_For more examples, please refer to the [Design Document](https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/blob/main/writeups/Software%20Design%20Document%20-Module%207%20-%20Artl.docx.pdf)_
+_For more examples, please refer to the [Design Document](https://github.com/adamsissoko/CS465/blob/main/writeups/Software%20Design%20Document%20-Module%207%20-%20Artl.docx.pdf)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -268,7 +268,7 @@ _For more examples, please refer to the [Design Document](https://github.com/lor
 - [ ] Add Registration button to access service
 - [ ] Add pagenation to backend
 
-See the [open issues](https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/adamsissoko/CS465/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -303,9 +303,9 @@ Currently there is no license for this application, it is free to use by anyone 
 ## Contact
 
 <p>Check out my <a href="https://www.youtube.com/channel/UCGtp8PRHgPCQHYoSxbMST8A" target="_blank">YouTube channel</a> for more videos about coding projects I've done.</p>
-<p>Also, check out my <a href="http://artllj.com" target="_blank">Personal Website</a> for more information about me, and my <a href="https://www.linkedin.com/in/lorenarms95/" target="_blank">LinkedIn</a> to see if I'd be a good fit for your team. </p>
+<p>Also, check out my <a href="http://artllj.com" target="_blank">Personal Website</a> for more information about me, and my <a href="https://www.linkedin.com/in/adamsissoko95/" target="_blank">LinkedIn</a> to see if I'd be a good fit for your team. </p>
 <h3>Thanks for stopping by!</h3>
-<img src="https://github.com/lorenarms/SNHU_CS_370_Emerging_Trends_in_CS/blob/main/images/profile.png" alt="[picture of me]" style="width:100px;">
+<img src="https://github.com/adamsissoko/SNHU_CS_370_Emerging_Trends_in_CS/blob/main/images/profile.png" alt="[picture of me]" style="width:100px;">
 <p>much love
 -L
 </p>
@@ -334,18 +334,18 @@ Currently there is no license for this application, it is free to use by anyone 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/lorenarms/SNHU_CS_465_Full-Stack-Development-I.svg?style=for-the-badge
-[contributors-url]: https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lorenarms/SNHU_CS_465_Full-Stack-Development-I.svg?style=for-the-badge
-[forks-url]: https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/network/members
-[stars-shield]: https://img.shields.io/github/stars/lorenarms/SNHU_CS_465_Full-Stack-Development-I.svg?style=for-the-badge
-[stars-url]: https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lorenarms/SNHU_CS_465_Full-Stack-Development-I.svg?style=for-the-badge
-[issues-url]: https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/issues
-[license-shield]: https://img.shields.io/github/license/lorenarms/SNHU_CS_465_Full-Stack-Development-I.svg?style=for-the-badge
-[license-url]: https://github.com/lorenarms/SNHU_CS_465_Full-Stack-Development-I/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/adamsissoko/CS465.svg?style=for-the-badge
+[contributors-url]: https://github.com/adamsissoko/CS465/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/adamsissoko/CS465.svg?style=for-the-badge
+[forks-url]: https://github.com/adamsissoko/CS465/network/members
+[stars-shield]: https://img.shields.io/github/stars/adamsissoko/CS465.svg?style=for-the-badge
+[stars-url]: https://github.com/adamsissoko/CS465/stargazers
+[issues-shield]: https://img.shields.io/github/issues/adamsissoko/CS465.svg?style=for-the-badge
+[issues-url]: https://github.com/adamsissoko/CS465/issues
+[license-shield]: https://img.shields.io/github/license/adamsissoko/CS465.svg?style=for-the-badge
+[license-url]: https://github.com/adamsissoko/CS465/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077FF
-[linkedin-url]: https://linkedin.com/in/lorenarms95
+[linkedin-url]: https://linkedin.com/in/adamsissoko95
 
 [product-screenshot]: images/main_page.png
 
