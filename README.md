@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="210">
   </a>
 
-  <h3 align="center">CS 465: Full Stack Development I</h3>
+  <h3 align="center">ravlr Getaways: A Modernized Web Application for Travel Enthusiasts</h3>
 
   <p align="center">
     Adam Sissoko
@@ -56,7 +56,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-course">About The Course</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -79,29 +78,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-<!-- ABOUT THE COURSE -->
-## About The Course
-<h3>
-Course Prerequisites
-</h3>
-
-- [x] 108 credits including CS 340
-
-<h3>
-Course Description
-</h3>
-<p>Students will design and develop a full stack application through the utilization of programming language frameworks. In creating a full stack application, students will also be responsible for developing a database as well as the code that interfaces their application to the database.
-</p>
-<p>
-This course covers the following competencies, which represent the knowledge and skills relevant to this field:
-
-- [x] CS-30427: Design the architecture of a web application
-- [x] CS-40428: Build a web application using frameworks
-- [x] CS-40429: Develop and integrate a database using frameworks
-
-</p>
 
 
 
@@ -145,11 +121,10 @@ This project used the following frameworks, and will require them to run on your
 ### How I Developed The Project
 
 <p>
-  The development journey for "Travlr Getaways" was far from a linear process. While a guide did exist, it was not entirely up-to-date, necessitating several rounds of code refactoring. Specifically, the project relied on components whose newer versions were incompatible with the initial codebase. This required intricate adjustments to routes and other functionalities. As someone who is not primarily trained in JavaScript, the initial stages presented a steep learning curve. However, my strength lies in problem-solving, and I perceive debugging not as a tedious chore but as an engaging exploration of the codebase. Navigating these challenges thus translated into a rewarding educational experience.
+  The development journey for "Travlr Getaways" presented complex challenges in maintaining and modernizing a pre-existing codebase. The project's initial structure relied heavily on older components, some of which had evolved into newer, incompatible versions. This necessitated in-depth code reviews, followed by detailed adjustments to API routes, database queries, and UI components. Although JavaScript wasn't my forte, the challenges encountered served as a catalyst for acquiring a deeper understanding of the language and its associated libraries. Debugging became an engaging exploration of the codebase, allowing me to identify bottlenecks, optimize performance, and improve overall user experience.
 </p>
-
 <p>
-  My approach to problem-solving is both methodical and logical. I make it a point to understand the capabilities and limitations of the tools at my disposal. Leveraging this knowledge, I employ a step-by-step methodology that allows me to work efficiently without losing sight of the overall objective. I possess a knack for zooming out to comprehend the bigger picture, allowing me to integrate micro-level details within a macro-level understanding effectively. This ability aids in a more holistic problem-solving strategy, whether in coding or in any other facet of life.
+  My approach to overcoming technical hurdles combines methodical planning with logical reasoning. I first perform an exhaustive review to understand the capabilities and limitations of the technologies in use. This sets the stage for a phased, step-by-step problem-solving methodology. Such a framework enables me to operate efficiently while keeping the project's overall goals and milestones in sight. One of my key strengths is my ability to switch between micro and macro perspectives easily. This capability lets me see the bigger picture while understanding how minute details contribute to the project's overall success. This dual-level approach serves as a cornerstone of my problem-solving strategy, not just in software development but in every aspect of life.
 </p>
 
 
@@ -276,25 +251,6 @@ See the [open issues](https://github.com/adamsissoko/CS465/issues) for a full li
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-I'm always open to collaborate with other great coders! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-  
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
