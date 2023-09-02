@@ -114,7 +114,7 @@ This course covers the following competencies, which represent the knowledge and
 </div>
 
 <p>
-  This course emphasized the holistic development of a web application, using the robust MEAN stack technology stack—comprising MongoDB, Express.js, Angular, and Node.js. The capstone project, named "Travlr Getaways," serves as a versatile travel portal and is accessible <a href="https://github.com/adamsissoko/CS465/tree/main/CS-465%20Travlr" target="_blank">here</a>. This project was both a challenging and exhilarating experience, perfectly aligning with my profound interest in web development.
+  This course emphasized the holistic development of a web application, using the robust MEAN stack technology stack—comprising MongoDB, Express.js, Angular, and Node.js. The capstone project, named "Travlr Getaways," serves as a versatile travel portal where users can purchase plane tickets, book hotel stays, and find travel discounts.
 </p>
 
 <p>
