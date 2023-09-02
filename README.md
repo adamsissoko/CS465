@@ -39,7 +39,7 @@
   <p align="center">
     Adam Sissoko
     <br />
-    <a href="https://github.com/adamsissoko/SNHU_CS_370_Emerging_Trends_in_CS/tree/main/writeups"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adamsissoko/CS465/tree/main/writeups"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/adamsissoko/CS465/blob/main/images/travlr_login.gif">View Demo</a>
@@ -95,7 +95,7 @@ Course Description
 <p>Students will design and develop a full stack application through the utilization of programming language frameworks. In creating a full stack application, students will also be responsible for developing a database as well as the code that interfaces their application to the database.
 </p>
 <p>
-This course covers the following competencies, which represent the knowledge and skills relevant to your field:
+This course covers the following competencies, which represent the knowledge and skills relevant to this field:
 
 - [x] CS-30427: Design the architecture of a web application
 - [x] CS-40428: Build a web application using frameworks
@@ -114,12 +114,14 @@ This course covers the following competencies, which represent the knowledge and
 </div>
 
 <p>
-  This class focused on the development of a single web application using the MEAN stack process (MongoDB, express.js framework, Angular frontend framework, and node.js backend server framework). The entire project was designed as a travel website, "Travlr Getaways", and can be found <a href="https://github.com/adamsissoko/CS465/tree/main/CS-465%20Travlr" target="_blank"> in this folder</a>.
-This was a very challenging, very interesting, and very <i>very</i> fun project for me to work on. I enjoy web development more than any other type of project, so this class and application being the culmination of all my learning was just too perfect.
+  This course emphasized the holistic development of a web application, using the robust MEAN stack technology stack—comprising MongoDB, Express.js, Angular, and Node.js. The capstone project, named "Travlr Getaways," serves as a versatile travel portal and is accessible <a href="https://github.com/adamsissoko/CS465/tree/main/CS-465%20Travlr" target="_blank">here</a>. This project was both a challenging and exhilarating experience, perfectly aligning with my profound interest in web development.
 </p>
 
-<p>To get a better idea of what this whole project was about, check out the <a href="https://github.com/adamsissoko/CS465/blob/module-6/writeups/Project%20Guidelines%20and%20Rubric.pdf" target="_blank"> Guidelines and Rubric document</a>. You can also view the <a href="https://github.com/adamsissoko/CS465/blob/module-6/writeups/CS%20465%20Travlr%20Getaways%20Wireframe.pdf" target="_blank"> Wireframe document </a>that shows you what the completed web project *should* look like when it's completed. This project went through several design changes as it was developed, but the wireframe was the main guide to get to the finished product. The <a href="https://github.com/adamsissoko/CS465/blob/main/writeups/Software%20Design%20Document%20-Module%207%20-%20Artl.docx.pdf" target="_blank"> final design document</a> summarizes the entire project, including routes and testing.</p>
+<p>
+  For a comprehensive understanding of the project scope, objectives, and evaluation metrics, you are encouraged to review the <a href="https://github.com/adamsissoko/CS465/blob/module-6/writeups/Project%20Guidelines%20and%20Rubric.pdf" target="_blank">Guidelines and Rubric document</a>. The <a href="https://github.com/adamsissoko/CS465/blob/module-6/writeups/CS%20465%20Travlr%20Getaways%20Wireframe.pdf" target="_blank">Wireframe document</a> provides an architectural overview of the intended end-product, serving as the foundational blueprint throughout the development phase. Design paradigms evolved as the project matured, however, the wireframe remained the cornerstone for architectural decisions. For an in-depth analysis including application routes and testing protocols, the <a href="https://github.com/adamsissoko/CS465/blob/main/writeups/Software%20Design%20Document%20-Module%207%20-%20Artl.docx.pdf" target="_blank">final design document</a> encapsulates the entire project lifecycle.
+</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- BUILT WITH -->
