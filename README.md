@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="210">
   </a>
 
-  <h3 align="center">ravlr Getaways: A Modernized Web Application for Travel Enthusiasts</h3>
+  <h3 align="center">Travlr Getaways: A Modernized Web Application for Travel Enthusiasts</h3>
 
   <p align="center">
     Adam Sissoko
