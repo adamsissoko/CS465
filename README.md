@@ -118,7 +118,7 @@ This course covers the following competencies, which represent the knowledge and
 </p>
 
 <p>
-  For a comprehensive understanding of the project scope, objectives, and evaluation metrics, you are encouraged to review the <a href="https://github.com/adamsissoko/CS465/blob/module-6/documents/Project%20Guidelines%20and%20Rubric.pdf" target="_blank">Guidelines and Rubric document</a>. The <a href="https://github.com/adamsissoko/CS465/blob/module-6/documents/CS%20465%20Travlr%20Getaways%20Wireframe.pdf" target="_blank">Wireframe document</a> provides an architectural overview of the intended end-product, serving as the foundational blueprint throughout the development phase. Design paradigms evolved as the project matured, however, the wireframe remained the cornerstone for architectural decisions.
+  For a comprehensive understanding of the project scope, objectives, and evaluation metrics, you are encouraged to review the <a href="https://github.com/adamsissoko/CS465/tree/main/documents/Project%20Guidelines%20and%20Rubric.pdf" target="_blank">Guidelines and Rubric document</a>. The <a href="https://github.com/adamsissoko/CS465/tree/main/documents/CS%20465%20Travlr%20Getaways%20Wireframe.pdf" target="_blank">Wireframe document</a> provides an architectural overview of the intended end-product, serving as the foundational blueprint throughout the development phase. Design paradigms evolved as the project matured, however, the wireframe remained the cornerstone for architectural decisions.
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
