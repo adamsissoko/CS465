@@ -325,7 +325,7 @@ Don't forget to give the project a star! Thanks again!
 [license-shield]: https://img.shields.io/github/license/adamsissoko/CS465.svg?style=for-the-badge
 [license-url]: https://github.com/adamsissoko/CS465/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077FF
-[linkedin-url]: https://linkedin.com/in/adamsissoko95
+[linkedin-url]: https://www.linkedin.com/in/adam-sissoko-3946a928a/
 
 [product-screenshot]: images/main_page.png
 
