@@ -144,12 +144,14 @@ This project used the following frameworks, and will require them to run on your
 <!-- DEVLOPMENT OF THE PROJECT -->
 ### How I Developed The Project
 
-  <p>
-While the above project had a guide to follow during development, the guide was far from perfect, and there were many instances where refactoring was a necessity. Some of the installed component's versions are newer than what the original code was written for, and thus some changes needed to be made to get routes and other parts to work properly. With Javascript not being my primary language, there was also a bit of a steep learning curve at first. However, problem-solving is my forte, and I view debugging as not so much a tedium but a fun exploration of the code. Therefore making the project work was a very enjoyable learning experience.
-</p>
 <p>
-My approach to solving the above problem (and all others in any other aspect of my life) is methodical and logical. I typically know the limitations and abilites of the tools I am using to solve the problem, and using a one-step-at-a-time method helps me to work efficiently. I rarely have the problem in missing the "forest for the trees"; in fact, I'm very good at stepping back from the details and seeing the big picture for what it is, and then stepping back into the details with an understanding of how they effect the overall problem / solution.
+  The development journey for "Travlr Getaways" was far from a linear process. While a guide did exist, it was not entirely up-to-date, necessitating several rounds of code refactoring. Specifically, the project relied on components whose newer versions were incompatible with the initial codebase. This required intricate adjustments to routes and other functionalities. As someone who is not primarily trained in JavaScript, the initial stages presented a steep learning curve. However, my strength lies in problem-solving, and I perceive debugging not as a tedious chore but as an engaging exploration of the codebase. Navigating these challenges thus translated into a rewarding educational experience.
 </p>
+
+<p>
+  My approach to problem-solving is both methodical and logical. I make it a point to understand the capabilities and limitations of the tools at my disposal. Leveraging this knowledge, I employ a step-by-step methodology that allows me to work efficiently without losing sight of the overall objective. I possess a knack for zooming out to comprehend the bigger picture, allowing me to integrate micro-level details within a macro-level understanding effectively. This ability aids in a more holistic problem-solving strategy, whether in coding or in any other facet of life.
+</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
