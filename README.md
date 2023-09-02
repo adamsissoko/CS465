@@ -39,7 +39,7 @@
   <p align="center">
     Adam Sissoko
     <br />
-    <a href="https://github.com/adamsissoko/SNHU_CS_370_Emerging_Trends_in_CS/tree/main/writeups"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adamsissoko/CS465/tree/main/writeups"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/adamsissoko/CS465/blob/main/images/travlr_login.gif">View Demo</a>
@@ -95,7 +95,7 @@ Course Description
 <p>Students will design and develop a full stack application through the utilization of programming language frameworks. In creating a full stack application, students will also be responsible for developing a database as well as the code that interfaces their application to the database.
 </p>
 <p>
-This course covers the following competencies, which represent the knowledge and skills relevant to your field:
+This course covers the following competencies, which represent the knowledge and skills relevant to this field:
 
 - [x] CS-30427: Design the architecture of a web application
 - [x] CS-40428: Build a web application using frameworks
@@ -114,12 +114,14 @@ This course covers the following competencies, which represent the knowledge and
 </div>
 
 <p>
-  This class focused on the development of a single web application using the MEAN stack process (MongoDB, express.js framework, Angular frontend framework, and node.js backend server framework). The entire project was designed as a travel website, "Travlr Getaways", and can be found <a href="https://github.com/adamsissoko/CS465/tree/main/CS-465%20Travlr" target="_blank"> in this folder</a>.
-This was a very challenging, very interesting, and very <i>very</i> fun project for me to work on. I enjoy web development more than any other type of project, so this class and application being the culmination of all my learning was just too perfect.
+  This course emphasized the holistic development of a web application, using the robust MEAN stack technology stack—comprising MongoDB, Express.js, Angular, and Node.js. The capstone project, named "Travlr Getaways," serves as a versatile travel portal where users can purchase plane tickets, book hotel stays, and find travel discounts.
 </p>
 
-<p>To get a better idea of what this whole project was about, check out the <a href="https://github.com/adamsissoko/CS465/blob/module-6/writeups/Project%20Guidelines%20and%20Rubric.pdf" target="_blank"> Guidelines and Rubric document</a>. You can also view the <a href="https://github.com/adamsissoko/CS465/blob/module-6/writeups/CS%20465%20Travlr%20Getaways%20Wireframe.pdf" target="_blank"> Wireframe document </a>that shows you what the completed web project *should* look like when it's completed. This project went through several design changes as it was developed, but the wireframe was the main guide to get to the finished product. The <a href="https://github.com/adamsissoko/CS465/blob/main/writeups/Software%20Design%20Document%20-Module%207%20-%20Artl.docx.pdf" target="_blank"> final design document</a> summarizes the entire project, including routes and testing.</p>
+<p>
+  For a comprehensive understanding of the project scope, objectives, and evaluation metrics, you are encouraged to review the <a href="https://github.com/adamsissoko/CS465/blob/module-6/writeups/Project%20Guidelines%20and%20Rubric.pdf" target="_blank">Guidelines and Rubric document</a>. The <a href="https://github.com/adamsissoko/CS465/blob/module-6/writeups/CS%20465%20Travlr%20Getaways%20Wireframe.pdf" target="_blank">Wireframe document</a> provides an architectural overview of the intended end-product, serving as the foundational blueprint throughout the development phase. Design paradigms evolved as the project matured, however, the wireframe remained the cornerstone for architectural decisions.
+</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- BUILT WITH -->
@@ -142,12 +144,14 @@ This project used the following frameworks, and will require them to run on your
 <!-- DEVLOPMENT OF THE PROJECT -->
 ### How I Developed The Project
 
-  <p>
-While the above project had a guide to follow during development, the guide was far from perfect, and there were many instances where refactoring was a necessity. Some of the installed component's versions are newer than what the original code was written for, and thus some changes needed to be made to get routes and other parts to work properly. With Javascript not being my primary language, there was also a bit of a steep learning curve at first. However, problem-solving is my forte, and I view debugging as not so much a tedium but a fun exploration of the code. Therefore making the project work was a very enjoyable learning experience.
-</p>
 <p>
-My approach to solving the above problem (and all others in any other aspect of my life) is methodical and logical. I typically know the limitations and abilites of the tools I am using to solve the problem, and using a one-step-at-a-time method helps me to work efficiently. I rarely have the problem in missing the "forest for the trees"; in fact, I'm very good at stepping back from the details and seeing the big picture for what it is, and then stepping back into the details with an understanding of how they effect the overall problem / solution.
+  The development journey for "Travlr Getaways" was far from a linear process. While a guide did exist, it was not entirely up-to-date, necessitating several rounds of code refactoring. Specifically, the project relied on components whose newer versions were incompatible with the initial codebase. This required intricate adjustments to routes and other functionalities. As someone who is not primarily trained in JavaScript, the initial stages presented a steep learning curve. However, my strength lies in problem-solving, and I perceive debugging not as a tedious chore but as an engaging exploration of the codebase. Navigating these challenges thus translated into a rewarding educational experience.
 </p>
+
+<p>
+  My approach to problem-solving is both methodical and logical. I make it a point to understand the capabilities and limitations of the tools at my disposal. Leveraging this knowledge, I employ a step-by-step methodology that allows me to work efficiently without losing sight of the overall objective. I possess a knack for zooming out to comprehend the bigger picture, allowing me to integrate micro-level details within a macro-level understanding effectively. This ability aids in a more holistic problem-solving strategy, whether in coding or in any other facet of life.
+</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -321,7 +325,7 @@ Don't forget to give the project a star! Thanks again!
 [license-shield]: https://img.shields.io/github/license/adamsissoko/CS465.svg?style=for-the-badge
 [license-url]: https://github.com/adamsissoko/CS465/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077FF
-[linkedin-url]: https://linkedin.com/in/adamsissoko95
+[linkedin-url]: https://www.linkedin.com/in/adam-sissoko-3946a928a/
 
 [product-screenshot]: images/main_page.png
 
